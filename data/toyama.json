@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T18:31:00Z",
+  "updatedAt": "2026-02-26T18:40:53Z",
   "city": "Toyama",
   "country": "JP",
   "lat": 36.6953,
   "lng": 137.2113,
-  "temp": 6.2,
+  "temp": 6.3,
   "feelsLike": 4.4,
-  "humidity": 99,
-  "windSpeed": 1.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "humidity": 98,
+  "windSpeed": 1.6,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

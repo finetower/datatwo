@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T18:31:00Z",
+  "updatedAt": "2026-02-26T18:40:53Z",
   "city": "Jeju",
   "country": "KR",
   "lat": 33.489,
   "lng": 126.4983,
-  "temp": 11.3,
-  "feelsLike": 8.7,
+  "temp": 11.2,
+  "feelsLike": 8.5,
   "humidity": 95,
-  "windSpeed": 5.2,
+  "windSpeed": 5.4,
   "condition": "Rain",
-  "conditionCode": 63
+  "conditionCode": 61
 }
