@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T15:50:24Z",
+  "updatedAt": "2026-02-26T16:01:04Z",
   "city": "Muan",
   "country": "KR",
   "lat": 34.99,
   "lng": 126.482,
-  "temp": 6.0,
-  "feelsLike": 3.7,
-  "humidity": 90,
-  "windSpeed": 1.7,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 5.9,
+  "feelsLike": 3.6,
+  "humidity": 91,
+  "windSpeed": 1.8,
+  "condition": "Rain",
+  "conditionCode": 51
 }

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T15:50:24Z",
+  "updatedAt": "2026-02-26T16:01:04Z",
   "city": "Sydney",
   "country": "AU",
   "lat": -33.8688,
   "lng": 151.2093,
-  "temp": 20.5,
-  "feelsLike": 22.6,
+  "temp": 20.6,
+  "feelsLike": 22.8,
   "humidity": 89,
-  "windSpeed": 2.1,
-  "condition": "Shower",
-  "conditionCode": 80
+  "windSpeed": 2.0,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
