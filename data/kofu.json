@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T18:40:53Z",
+  "updatedAt": "2026-02-26T18:50:30Z",
   "city": "Kofu",
   "country": "JP",
   "lat": 35.6635,
@@ -8,6 +8,6 @@
   "feelsLike": 5.7,
   "humidity": 81,
   "windSpeed": 0.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
