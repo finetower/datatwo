@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T17:21:29Z",
+  "updatedAt": "2026-02-26T17:30:57Z",
   "city": "Imsil",
   "country": "KR",
   "lat": 35.6117,
   "lng": 127.282,
-  "temp": 5.6,
-  "feelsLike": 3.1,
-  "humidity": 89,
+  "temp": 5.5,
+  "feelsLike": 3.0,
+  "humidity": 90,
   "windSpeed": 2.1,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
