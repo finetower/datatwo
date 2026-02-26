@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T15:30:28Z",
+  "updatedAt": "2026-02-26T15:50:24Z",
   "city": "Boston",
   "country": "US",
   "lat": 42.3601,
   "lng": -71.0589,
-  "temp": 2.5,
-  "feelsLike": -2.3,
+  "temp": 2.6,
+  "feelsLike": -2.1,
   "humidity": 56,
-  "windSpeed": 4.5,
+  "windSpeed": 4.4,
   "condition": "Clear",
   "conditionCode": 0
 }
