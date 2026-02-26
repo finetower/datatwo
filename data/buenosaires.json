@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T19:00:42Z",
+  "updatedAt": "2026-02-26T19:20:55Z",
   "city": "Buenos Aires",
   "country": "AR",
   "lat": -34.6037,
   "lng": -58.3816,
-  "temp": 26.8,
-  "feelsLike": 26.3,
+  "temp": 26.7,
+  "feelsLike": 26.0,
   "humidity": 40,
-  "windSpeed": 2.2,
+  "windSpeed": 2.5,
   "condition": "Cloudy",
   "conditionCode": 3
 }
