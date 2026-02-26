@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T19:50:23Z",
+  "updatedAt": "2026-02-26T20:00:35Z",
   "city": "Naju",
   "country": "KR",
   "lat": 35.016,
@@ -7,7 +7,7 @@
   "temp": 5.5,
   "feelsLike": 3.1,
   "humidity": 97,
-  "windSpeed": 2.3,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "windSpeed": 2.4,
+  "condition": "Rain",
+  "conditionCode": 51
 }

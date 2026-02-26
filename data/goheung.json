@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T19:50:23Z",
+  "updatedAt": "2026-02-26T20:00:35Z",
   "city": "Goheung",
   "country": "KR",
   "lat": 34.6139,
@@ -8,6 +8,6 @@
   "feelsLike": 3.4,
   "humidity": 93,
   "windSpeed": 5.1,
-  "condition": "Rain",
-  "conditionCode": 53
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

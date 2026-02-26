@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T19:50:23Z",
+  "updatedAt": "2026-02-26T20:00:35Z",
   "city": "Edinburgh",
   "country": "GB",
   "lat": 55.9533,
   "lng": -3.1883,
-  "temp": 10.6,
-  "feelsLike": 6.1,
+  "temp": 10.5,
+  "feelsLike": 5.8,
   "humidity": 75,
-  "windSpeed": 6.9,
+  "windSpeed": 7.1,
   "condition": "Cloudy",
   "conditionCode": 3
 }

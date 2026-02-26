@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T19:50:23Z",
+  "updatedAt": "2026-02-26T20:00:35Z",
   "city": "Kathmandu",
   "country": "NP",
   "lat": 27.7172,
@@ -8,6 +8,6 @@
   "feelsLike": 11.4,
   "humidity": 74,
   "windSpeed": 2.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

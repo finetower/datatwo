@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T19:50:23Z",
+  "updatedAt": "2026-02-26T20:00:35Z",
   "city": "Prague",
   "country": "CZ",
   "lat": 50.0755,
   "lng": 14.4378,
-  "temp": 8.7,
-  "feelsLike": 6.8,
-  "humidity": 73,
+  "temp": 8.5,
+  "feelsLike": 6.6,
+  "humidity": 74,
   "windSpeed": 1.0,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
