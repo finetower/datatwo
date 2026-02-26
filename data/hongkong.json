@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T16:52:05Z",
+  "updatedAt": "2026-02-26T17:03:08Z",
   "city": "Hong Kong",
   "country": "HK",
   "lat": 22.3193,
@@ -8,6 +8,6 @@
   "feelsLike": 23.5,
   "humidity": 92,
   "windSpeed": 0.9,
-  "condition": "Shower",
-  "conditionCode": 80
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

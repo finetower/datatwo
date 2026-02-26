@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T16:52:05Z",
+  "updatedAt": "2026-02-26T17:03:08Z",
   "city": "Keelung",
   "country": "TW",
   "lat": 25.1276,
@@ -8,6 +8,6 @@
   "feelsLike": 23.2,
   "humidity": 97,
   "windSpeed": 1.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Fog",
+  "conditionCode": 45
 }

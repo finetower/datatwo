@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T16:52:05Z",
+  "updatedAt": "2026-02-26T17:03:08Z",
   "city": "Namyangju",
   "country": "KR",
   "lat": 37.636,
   "lng": 127.2165,
-  "temp": 4.2,
+  "temp": 4.1,
   "feelsLike": 0.9,
   "humidity": 89,
   "windSpeed": 2.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
