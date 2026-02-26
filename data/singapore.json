@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T18:50:30Z",
+  "updatedAt": "2026-02-26T19:00:42Z",
   "city": "Singapore",
   "country": "SG",
   "lat": 1.3521,
@@ -8,6 +8,6 @@
   "feelsLike": 31.4,
   "humidity": 85,
   "windSpeed": 0.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
