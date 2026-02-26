@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T17:03:08Z",
+  "updatedAt": "2026-02-26T17:21:29Z",
   "city": "Haenam",
   "country": "KR",
   "lat": 34.5734,
   "lng": 126.599,
-  "temp": 7.1,
-  "feelsLike": 4.9,
+  "temp": 7.0,
+  "feelsLike": 4.4,
   "humidity": 96,
-  "windSpeed": 2.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 3.3,
+  "condition": "Rain",
+  "conditionCode": 55
 }
