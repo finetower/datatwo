@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T00:00:42Z",
+  "updatedAt": "2026-02-27T00:20:23Z",
   "city": "Mokpo",
   "country": "KR",
   "lat": 34.8118,
   "lng": 126.3922,
-  "temp": 6.9,
-  "feelsLike": 4.8,
+  "temp": 7.0,
+  "feelsLike": 5.0,
   "humidity": 92,
-  "windSpeed": 2.1,
+  "windSpeed": 2.0,
   "condition": "Partly Cloudy",
   "conditionCode": 2
 }
