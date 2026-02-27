@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T00:50:30Z",
+  "updatedAt": "2026-02-27T01:00:42Z",
   "city": "Hamamatsu",
   "country": "JP",
   "lat": 34.7108,
   "lng": 137.7261,
-  "temp": 12.6,
-  "feelsLike": 12.1,
-  "humidity": 81,
-  "windSpeed": 0.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 12.9,
+  "feelsLike": 12.4,
+  "humidity": 80,
+  "windSpeed": 0.8,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
