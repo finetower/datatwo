@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T20:00:35Z",
+  "updatedAt": "2026-02-27T00:00:42Z",
   "city": "Hwaseong",
   "country": "KR",
   "lat": 37.1996,
   "lng": 126.8311,
-  "temp": 2.9,
-  "feelsLike": -0.3,
-  "humidity": 91,
-  "windSpeed": 2.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 4.7,
+  "feelsLike": 1.1,
+  "humidity": 82,
+  "windSpeed": 3.3,
+  "condition": "Clear",
+  "conditionCode": 0
 }

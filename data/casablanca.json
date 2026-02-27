@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-26T20:00:35Z",
+  "updatedAt": "2026-02-27T00:00:42Z",
   "city": "Casablanca",
   "country": "MA",
   "lat": 33.5731,
   "lng": -7.5898,
-  "temp": 16.3,
-  "feelsLike": 17.2,
-  "humidity": 89,
-  "windSpeed": 1.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 15.4,
+  "feelsLike": 16.5,
+  "humidity": 92,
+  "windSpeed": 0.5,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
