@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T01:30:43Z",
+  "updatedAt": "2026-02-27T01:50:29Z",
   "city": "Maebashi",
   "country": "JP",
   "lat": 36.3912,
   "lng": 139.0608,
-  "temp": 11.1,
-  "feelsLike": 9.6,
-  "humidity": 73,
+  "temp": 11.6,
+  "feelsLike": 10.2,
+  "humidity": 72,
   "windSpeed": 1.4,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
