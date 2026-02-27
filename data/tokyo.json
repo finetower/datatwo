@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T03:20:24Z",
+  "updatedAt": "2026-02-27T03:30:38Z",
   "city": "Tokyo",
   "country": "JP",
   "lat": 35.6762,
@@ -8,6 +8,6 @@
   "feelsLike": 10.9,
   "humidity": 75,
   "windSpeed": 0.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
