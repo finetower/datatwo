@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T04:20:27Z",
+  "updatedAt": "2026-02-27T04:30:29Z",
   "city": "Goseong",
   "country": "KR",
   "lat": 38.3806,
   "lng": 128.467,
-  "temp": 6.0,
-  "feelsLike": 0.9,
-  "humidity": 71,
-  "windSpeed": 6.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 5.8,
+  "feelsLike": 0.8,
+  "humidity": 72,
+  "windSpeed": 5.9,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
