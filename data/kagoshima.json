@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T03:50:25Z",
+  "updatedAt": "2026-02-27T04:00:36Z",
   "city": "Kagoshima",
   "country": "JP",
   "lat": 31.5966,
   "lng": 130.5571,
-  "temp": 16.8,
-  "feelsLike": 17.8,
-  "humidity": 93,
-  "windSpeed": 1.8,
+  "temp": 16.6,
+  "feelsLike": 17.2,
+  "humidity": 94,
+  "windSpeed": 2.5,
   "condition": "Rain",
-  "conditionCode": 55
+  "conditionCode": 63
 }
