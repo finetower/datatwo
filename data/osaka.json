@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T03:00:48Z",
+  "updatedAt": "2026-02-27T03:20:24Z",
   "city": "Osaka",
   "country": "JP",
   "lat": 34.6937,
   "lng": 135.5023,
-  "temp": 14.7,
-  "feelsLike": 14.3,
-  "humidity": 75,
-  "windSpeed": 1.1,
+  "temp": 15.0,
+  "feelsLike": 14.7,
+  "humidity": 74,
+  "windSpeed": 0.8,
   "condition": "Cloudy",
   "conditionCode": 3
 }
