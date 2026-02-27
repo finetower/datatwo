@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T01:50:29Z",
+  "updatedAt": "2026-02-27T02:00:50Z",
   "city": "Gyeongju",
   "country": "KR",
   "lat": 35.8562,
   "lng": 129.2247,
-  "temp": 7.0,
-  "feelsLike": 3.9,
+  "temp": 7.1,
+  "feelsLike": 4.0,
   "humidity": 90,
   "windSpeed": 3.7,
-  "condition": "Rain",
-  "conditionCode": 51
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
