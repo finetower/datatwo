@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-28T00:30:27Z",
+  "updatedAt": "2026-02-28T00:40:24Z",
   "city": "Samcheok",
   "country": "KR",
   "lat": 37.4402,
   "lng": 129.165,
-  "temp": 5.7,
+  "temp": 5.5,
   "feelsLike": 1.6,
-  "humidity": 74,
-  "windSpeed": 4.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "humidity": 73,
+  "windSpeed": 3.7,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
