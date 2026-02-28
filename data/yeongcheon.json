@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-28T00:20:25Z",
+  "updatedAt": "2026-02-28T00:30:27Z",
   "city": "Yeongcheon",
   "country": "KR",
   "lat": 35.9731,
   "lng": 128.9364,
-  "temp": 2.6,
-  "feelsLike": -0.3,
-  "humidity": 67,
-  "windSpeed": 0.7,
+  "temp": 3.7,
+  "feelsLike": 0.8,
+  "humidity": 69,
+  "windSpeed": 1.0,
   "condition": "Clear",
   "conditionCode": 0
 }
