@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-28T01:50:24Z",
+  "updatedAt": "2026-02-28T02:00:32Z",
   "city": "Kushiro",
   "country": "JP",
   "lat": 42.985,
   "lng": 144.3741,
-  "temp": 1.0,
-  "feelsLike": -4.3,
-  "humidity": 96,
+  "temp": 0.9,
+  "feelsLike": -4.5,
+  "humidity": 97,
   "windSpeed": 6.2,
   "condition": "Rain",
-  "conditionCode": 61
+  "conditionCode": 63
 }
