@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-28T00:00:41Z",
+  "updatedAt": "2026-02-28T00:20:26Z",
   "city": "Melbourne",
   "country": "AU",
   "lat": -37.8136,
   "lng": 144.9631,
-  "temp": 22.9,
+  "temp": 23.1,
   "feelsLike": 25.1,
-  "humidity": 72,
-  "windSpeed": 1.0,
+  "humidity": 71,
+  "windSpeed": 1.2,
   "condition": "Shower",
   "conditionCode": 80
 }

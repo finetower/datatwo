@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-28T00:00:41Z",
+  "updatedAt": "2026-02-28T00:20:25Z",
   "city": "Tampa",
   "country": "US",
   "lat": 27.9506,
   "lng": -82.4572,
-  "temp": 20.0,
-  "feelsLike": 18.9,
+  "temp": 19.7,
+  "feelsLike": 18.8,
   "humidity": 94,
-  "windSpeed": 8.5,
+  "windSpeed": 7.8,
   "condition": "Rain",
-  "conditionCode": 61
+  "conditionCode": 65
 }
