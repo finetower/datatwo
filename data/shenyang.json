@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-28T04:50:24Z",
+  "updatedAt": "2026-02-28T05:00:35Z",
   "city": "Shenyang",
   "country": "CN",
   "lat": 41.8057,
   "lng": 123.4315,
-  "temp": 0.2,
-  "feelsLike": -5.9,
-  "humidity": 32,
-  "windSpeed": 5.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 0.4,
+  "feelsLike": -5.8,
+  "humidity": 31,
+  "windSpeed": 5.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
