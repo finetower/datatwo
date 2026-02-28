@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-28T00:40:23Z",
+  "updatedAt": "2026-02-28T00:50:24Z",
   "city": "Daejeon",
   "country": "KR",
   "lat": 36.3504,
   "lng": 127.3845,
-  "temp": 2.8,
-  "feelsLike": -0.0,
-  "humidity": 78,
-  "windSpeed": 1.1,
+  "temp": 3.6,
+  "feelsLike": 0.8,
+  "humidity": 75,
+  "windSpeed": 1.2,
   "condition": "Clear",
   "conditionCode": 0
 }
