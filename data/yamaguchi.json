@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-02-27T05:00:43Z",
+  "updatedAt": "2026-02-28T00:00:41Z",
   "city": "Yamaguchi",
   "country": "JP",
   "lat": 34.1861,
   "lng": 131.4706,
-  "temp": 12.4,
-  "feelsLike": 12.2,
-  "humidity": 95,
-  "windSpeed": 1.4,
-  "condition": "Rain",
-  "conditionCode": 63
+  "temp": 9.8,
+  "feelsLike": 6.9,
+  "humidity": 69,
+  "windSpeed": 3.1,
+  "condition": "Clear",
+  "conditionCode": 0
 }
