@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T09:20:24Z",
+  "updatedAt": "2026-03-01T09:30:25Z",
   "city": "San Diego",
   "country": "US",
   "lat": 32.7157,
   "lng": -117.1611,
-  "temp": 16.7,
-  "feelsLike": 15.2,
-  "humidity": 54,
-  "windSpeed": 1.6,
+  "temp": 16.2,
+  "feelsLike": 15.5,
+  "humidity": 63,
+  "windSpeed": 1.0,
   "condition": "Clear",
   "conditionCode": 0
 }

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T09:20:24Z",
+  "updatedAt": "2026-03-01T09:30:25Z",
   "city": "Copenhagen",
   "country": "DK",
   "lat": 55.6761,
   "lng": 12.5683,
-  "temp": 5.7,
-  "feelsLike": 0.8,
-  "humidity": 77,
-  "windSpeed": 5.9,
+  "temp": 5.9,
+  "feelsLike": 1.0,
+  "humidity": 75,
+  "windSpeed": 5.8,
   "condition": "Clear",
   "conditionCode": 0
 }
