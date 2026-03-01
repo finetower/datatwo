@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T08:50:23Z",
+  "updatedAt": "2026-03-01T09:00:33Z",
   "city": "Hangzhou",
   "country": "CN",
   "lat": 30.2741,
@@ -7,7 +7,7 @@
   "temp": 13.3,
   "feelsLike": 13.6,
   "humidity": 95,
-  "windSpeed": 1.0,
+  "windSpeed": 0.9,
   "condition": "Rain",
-  "conditionCode": 63
+  "conditionCode": 61
 }
