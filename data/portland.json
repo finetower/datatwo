@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T08:30:28Z",
+  "updatedAt": "2026-03-01T08:50:23Z",
   "city": "Portland",
   "country": "US",
   "lat": 45.5051,
   "lng": -122.675,
   "temp": 6.0,
-  "feelsLike": 2.8,
-  "humidity": 78,
-  "windSpeed": 2.8,
+  "feelsLike": 3.1,
+  "humidity": 80,
+  "windSpeed": 2.5,
   "condition": "Cloudy",
   "conditionCode": 3
 }
