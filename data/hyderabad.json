@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T09:30:25Z",
+  "updatedAt": "2026-03-01T09:40:25Z",
   "city": "Hyderabad",
   "country": "IN",
   "lat": 17.385,
   "lng": 78.4867,
-  "temp": 32.6,
-  "feelsLike": 33.1,
-  "humidity": 32,
-  "windSpeed": 1.4,
+  "temp": 33.0,
+  "feelsLike": 33.4,
+  "humidity": 30,
+  "windSpeed": 1.2,
   "condition": "Partly Cloudy",
   "conditionCode": 2
 }
