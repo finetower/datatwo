@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T08:20:23Z",
+  "updatedAt": "2026-03-01T08:30:28Z",
   "city": "Berlin",
   "country": "DE",
   "lat": 52.52,
   "lng": 13.405,
-  "temp": 7.0,
-  "feelsLike": 3.5,
-  "humidity": 65,
-  "windSpeed": 2.9,
+  "temp": 7.2,
+  "feelsLike": 3.6,
+  "humidity": 64,
+  "windSpeed": 3.1,
   "condition": "Cloudy",
   "conditionCode": 3
 }
