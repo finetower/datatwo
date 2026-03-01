@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T02:50:23Z",
+  "updatedAt": "2026-03-01T03:00:30Z",
   "city": "Yangon",
   "country": "MM",
   "lat": 16.8661,
   "lng": 96.1951,
-  "temp": 24.9,
-  "feelsLike": 28.1,
-  "humidity": 75,
+  "temp": 25.3,
+  "feelsLike": 28.8,
+  "humidity": 73,
   "windSpeed": 1.9,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

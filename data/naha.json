@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T02:30:27Z",
+  "updatedAt": "2026-03-01T03:00:30Z",
   "city": "Naha",
   "country": "JP",
   "lat": 26.2124,
@@ -8,6 +8,6 @@
   "feelsLike": 19.2,
   "humidity": 75,
   "windSpeed": 7.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
