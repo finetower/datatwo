@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T01:00:34Z",
+  "updatedAt": "2026-03-01T01:20:23Z",
   "city": "Chuncheon",
   "country": "KR",
   "lat": 37.8813,
   "lng": 127.7298,
-  "temp": 5.8,
-  "feelsLike": 3.1,
-  "humidity": 77,
-  "windSpeed": 1.6,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 6.1,
+  "feelsLike": 3.4,
+  "humidity": 75,
+  "windSpeed": 1.8,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }

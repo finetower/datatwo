@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T01:00:34Z",
+  "updatedAt": "2026-03-01T01:20:23Z",
   "city": "Miryang",
   "country": "KR",
   "lat": 35.4942,
   "lng": 128.7463,
-  "temp": 9.5,
-  "feelsLike": 7.3,
-  "humidity": 71,
-  "windSpeed": 1.8,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 10.1,
+  "feelsLike": 7.6,
+  "humidity": 69,
+  "windSpeed": 2.2,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

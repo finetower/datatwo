@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T01:00:34Z",
+  "updatedAt": "2026-03-01T01:20:23Z",
   "city": "Hanam",
   "country": "KR",
   "lat": 37.5395,
   "lng": 127.2149,
-  "temp": 6.0,
-  "feelsLike": 2.8,
-  "humidity": 73,
-  "windSpeed": 2.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 6.5,
+  "feelsLike": 3.3,
+  "humidity": 72,
+  "windSpeed": 2.6,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }

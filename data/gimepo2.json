@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T01:00:34Z",
+  "updatedAt": "2026-03-01T01:20:24Z",
   "city": "Gimpo-si",
   "country": "KR",
   "lat": 37.6152,
   "lng": 126.716,
-  "temp": 5.3,
-  "feelsLike": 2.0,
-  "humidity": 77,
+  "temp": 5.7,
+  "feelsLike": 2.4,
+  "humidity": 76,
   "windSpeed": 2.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
