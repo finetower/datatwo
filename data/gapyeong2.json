@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T06:30:27Z",
+  "updatedAt": "2026-03-01T06:40:23Z",
   "city": "Gapyeong-gun",
   "country": "KR",
   "lat": 37.8316,
   "lng": 127.511,
   "temp": 8.2,
-  "feelsLike": 5.0,
+  "feelsLike": 4.6,
   "humidity": 71,
-  "windSpeed": 3.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 3.7,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

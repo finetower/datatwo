@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T06:30:27Z",
+  "updatedAt": "2026-03-01T06:40:23Z",
   "city": "Cheorwon",
   "country": "KR",
   "lat": 38.1468,
   "lng": 127.313,
-  "temp": 7.5,
-  "feelsLike": 4.7,
-  "humidity": 68,
-  "windSpeed": 2.1,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 6.5,
+  "feelsLike": 3.7,
+  "humidity": 78,
+  "windSpeed": 2.3,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
