@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T07:50:23Z",
+  "updatedAt": "2026-03-01T08:00:35Z",
   "city": "Nashville",
   "country": "US",
   "lat": 36.1627,
   "lng": -86.7816,
-  "temp": 11.3,
-  "feelsLike": 9.0,
-  "humidity": 57,
-  "windSpeed": 1.3,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 10.9,
+  "feelsLike": 8.8,
+  "humidity": 55,
+  "windSpeed": 0.8,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

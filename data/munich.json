@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T07:50:23Z",
+  "updatedAt": "2026-03-01T08:00:35Z",
   "city": "Munich",
   "country": "DE",
   "lat": 48.1351,
@@ -8,6 +8,6 @@
   "feelsLike": 4.9,
   "humidity": 79,
   "windSpeed": 1.7,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Rain",
+  "conditionCode": 61
 }
