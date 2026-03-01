@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T09:50:22Z",
+  "updatedAt": "2026-03-01T10:00:31Z",
   "city": "Jangheung",
   "country": "KR",
   "lat": 34.6833,
   "lng": 126.907,
-  "temp": 9.9,
-  "feelsLike": 7.4,
+  "temp": 9.8,
+  "feelsLike": 7.2,
   "humidity": 78,
-  "windSpeed": 3.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 3.1,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
