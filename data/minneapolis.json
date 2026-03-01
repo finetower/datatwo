@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T05:30:26Z",
+  "updatedAt": "2026-03-01T05:50:23Z",
   "city": "Minneapolis",
   "country": "US",
   "lat": 44.9778,
   "lng": -93.265,
-  "temp": -9.6,
-  "feelsLike": -14.2,
-  "humidity": 43,
-  "windSpeed": 1.5,
+  "temp": -9.8,
+  "feelsLike": -14.4,
+  "humidity": 45,
+  "windSpeed": 1.6,
   "condition": "Clear",
   "conditionCode": 0
 }
