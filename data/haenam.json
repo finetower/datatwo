@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T06:00:38Z",
+  "updatedAt": "2026-03-01T06:20:25Z",
   "city": "Haenam",
   "country": "KR",
   "lat": 34.5734,
@@ -8,6 +8,6 @@
   "feelsLike": 8.1,
   "humidity": 76,
   "windSpeed": 5.7,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
