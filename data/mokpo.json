@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T00:40:23Z",
+  "updatedAt": "2026-03-01T00:50:25Z",
   "city": "Mokpo",
   "country": "KR",
   "lat": 34.8118,
   "lng": 126.3922,
-  "temp": 7.0,
-  "feelsLike": 3.0,
-  "humidity": 79,
+  "temp": 7.3,
+  "feelsLike": 3.3,
+  "humidity": 78,
   "windSpeed": 4.8,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
