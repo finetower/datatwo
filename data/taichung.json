@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T00:50:25Z",
+  "updatedAt": "2026-03-01T01:00:35Z",
   "city": "Taichung",
   "country": "TW",
   "lat": 24.1477,
   "lng": 120.6736,
-  "temp": 20.3,
-  "feelsLike": 23.4,
-  "humidity": 92,
+  "temp": 20.5,
+  "feelsLike": 23.5,
+  "humidity": 91,
   "windSpeed": 0.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Shower",
+  "conditionCode": 80
 }
