@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T00:20:24Z",
+  "updatedAt": "2026-03-01T00:30:26Z",
   "city": "Glasgow",
   "country": "GB",
   "lat": 55.8642,
   "lng": -4.2518,
-  "temp": 6.2,
+  "temp": 6.1,
   "feelsLike": 3.0,
-  "humidity": 86,
-  "windSpeed": 3.4,
+  "humidity": 87,
+  "windSpeed": 3.2,
   "condition": "Cloudy",
   "conditionCode": 3
 }
