@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T00:30:26Z",
+  "updatedAt": "2026-03-01T00:40:23Z",
   "city": "Takamatsu",
   "country": "JP",
   "lat": 34.3401,
   "lng": 134.0434,
-  "temp": 7.2,
-  "feelsLike": 5.1,
+  "temp": 7.0,
+  "feelsLike": 5.0,
   "humidity": 78,
-  "windSpeed": 1.0,
+  "windSpeed": 0.8,
   "condition": "Clear",
   "conditionCode": 0
 }
