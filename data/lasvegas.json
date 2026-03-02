@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-02T00:34:07Z",
+  "updatedAt": "2026-03-02T00:54:07Z",
   "city": "Las Vegas",
   "country": "US",
   "lat": 36.1699,
   "lng": -115.1398,
-  "temp": 27.6,
-  "feelsLike": 21.0,
-  "humidity": 12,
-  "windSpeed": 7.4,
+  "temp": 27.3,
+  "feelsLike": 20.9,
+  "humidity": 13,
+  "windSpeed": 7.2,
   "condition": "Cloudy",
   "conditionCode": 3
 }
