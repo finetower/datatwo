@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-02T01:54:07Z",
+  "updatedAt": "2026-03-02T02:04:07Z",
   "city": "Wando",
   "country": "KR",
   "lat": 34.3188,
   "lng": 126.754,
   "temp": 9.4,
-  "feelsLike": 0.6,
+  "feelsLike": 0.4,
   "humidity": 89,
-  "windSpeed": 15.7,
+  "windSpeed": 16.0,
   "condition": "Rain",
-  "conditionCode": 61
+  "conditionCode": 63
 }
