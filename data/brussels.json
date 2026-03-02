@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-02T01:04:08Z",
+  "updatedAt": "2026-03-02T01:24:08Z",
   "city": "Brussels",
   "country": "BE",
   "lat": 50.8503,
   "lng": 4.3517,
-  "temp": 9.5,
-  "feelsLike": 6.4,
+  "temp": 9.4,
+  "feelsLike": 6.2,
   "humidity": 73,
-  "windSpeed": 3.4,
+  "windSpeed": 3.5,
   "condition": "Clear",
   "conditionCode": 0
 }
