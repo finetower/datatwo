@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-02T02:34:07Z",
+  "updatedAt": "2026-03-02T02:54:07Z",
   "city": "Phoenix",
   "country": "US",
   "lat": 33.4484,
   "lng": -112.074,
-  "temp": 26.6,
-  "feelsLike": 23.4,
+  "temp": 26.1,
+  "feelsLike": 23.0,
   "humidity": 17,
-  "windSpeed": 2.1,
+  "windSpeed": 1.7,
   "condition": "Cloudy",
   "conditionCode": 3
 }
