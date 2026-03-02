@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-02T03:54:07Z",
+  "updatedAt": "2026-03-02T04:04:07Z",
   "city": "Gimhae",
   "country": "KR",
   "lat": 35.2342,
   "lng": 128.8811,
-  "temp": 7.1,
-  "feelsLike": 2.6,
+  "temp": 7.0,
+  "feelsLike": 2.5,
   "humidity": 89,
   "windSpeed": 6.5,
   "condition": "Rain",
-  "conditionCode": 51
+  "conditionCode": 55
 }
