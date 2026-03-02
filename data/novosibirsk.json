@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T09:50:23Z",
+  "updatedAt": "2026-03-02T00:04:08Z",
   "city": "Novosibirsk",
   "country": "RU",
   "lat": 54.9885,
   "lng": 82.9207,
-  "temp": -23.0,
-  "feelsLike": -27.9,
-  "humidity": 52,
-  "windSpeed": 1.5,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": -28.1,
+  "feelsLike": -32.9,
+  "humidity": 69,
+  "windSpeed": 1.2,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

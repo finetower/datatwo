@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T10:00:32Z",
+  "updatedAt": "2026-03-02T00:04:08Z",
   "city": "Keelung",
   "country": "TW",
   "lat": 25.1276,
   "lng": 121.7392,
-  "temp": 22.7,
-  "feelsLike": 26.4,
-  "humidity": 90,
-  "windSpeed": 1.2,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 23.0,
+  "feelsLike": 27.0,
+  "humidity": 92,
+  "windSpeed": 1.3,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }

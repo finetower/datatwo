@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-01T09:50:22Z",
+  "updatedAt": "2026-03-02T00:04:08Z",
   "city": "Dongducheon",
   "country": "KR",
   "lat": 37.9035,
   "lng": 127.0606,
-  "temp": 4.3,
-  "feelsLike": 1.1,
-  "humidity": 91,
-  "windSpeed": 3.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 1.6,
+  "feelsLike": -2.3,
+  "humidity": 96,
+  "windSpeed": 3.7,
+  "condition": "Rain",
+  "conditionCode": 61
 }
