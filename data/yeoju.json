@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-03T00:34:07Z",
+  "updatedAt": "2026-03-03T00:44:07Z",
   "city": "Yeoju",
   "country": "KR",
   "lat": 37.2983,
   "lng": 127.637,
-  "temp": 4.6,
-  "feelsLike": -0.1,
-  "humidity": 68,
-  "windSpeed": 4.7,
+  "temp": 4.9,
+  "feelsLike": 0.1,
+  "humidity": 67,
+  "windSpeed": 4.8,
   "condition": "Partly Cloudy",
   "conditionCode": 2
 }
