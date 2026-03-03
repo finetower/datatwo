@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-03T01:34:07Z",
+  "updatedAt": "2026-03-03T01:54:07Z",
   "city": "Ansan",
   "country": "KR",
   "lat": 37.3219,
   "lng": 126.8309,
-  "temp": 5.2,
-  "feelsLike": -0.1,
-  "humidity": 66,
-  "windSpeed": 5.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 5.6,
+  "feelsLike": 0.4,
+  "humidity": 65,
+  "windSpeed": 5.7,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
