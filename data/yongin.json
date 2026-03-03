@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-02T05:04:07Z",
+  "updatedAt": "2026-03-03T00:04:09Z",
   "city": "Yongin",
   "country": "KR",
   "lat": 37.2411,
   "lng": 127.1776,
-  "temp": 2.5,
-  "feelsLike": -2.3,
-  "humidity": 94,
-  "windSpeed": 5.7,
-  "condition": "Rain",
-  "conditionCode": 55
+  "temp": 2.9,
+  "feelsLike": -1.8,
+  "humidity": 72,
+  "windSpeed": 4.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
