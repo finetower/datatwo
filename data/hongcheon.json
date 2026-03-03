@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-03T04:24:07Z",
+  "updatedAt": "2026-03-03T04:34:08Z",
   "city": "Hongcheon",
   "country": "KR",
   "lat": 37.6973,
   "lng": 127.888,
-  "temp": 4.6,
-  "feelsLike": 0.3,
-  "humidity": 73,
+  "temp": 4.5,
+  "feelsLike": 0.2,
+  "humidity": 74,
   "windSpeed": 4.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
