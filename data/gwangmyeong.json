@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-03T00:44:07Z",
+  "updatedAt": "2026-03-03T00:54:08Z",
   "city": "Gwangmyeong",
   "country": "KR",
   "lat": 37.4784,
   "lng": 126.866,
-  "temp": 3.9,
-  "feelsLike": -0.2,
+  "temp": 4.2,
+  "feelsLike": 0.1,
   "humidity": 63,
   "windSpeed": 3.1,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
