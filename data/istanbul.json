@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T00:54:08Z",
+  "updatedAt": "2026-03-03T01:04:08Z",
   "city": "Istanbul",
   "country": "TR",
   "lat": 41.0082,
@@ -8,6 +8,6 @@
   "feelsLike": 4.4,
   "humidity": 80,
   "windSpeed": 0.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
