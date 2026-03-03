@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-03T02:04:07Z",
+  "updatedAt": "2026-03-03T02:24:07Z",
   "city": "Singapore",
   "country": "SG",
   "lat": 1.3521,
   "lng": 103.8198,
-  "temp": 27.5,
-  "feelsLike": 33.3,
-  "humidity": 82,
-  "windSpeed": 0.9,
+  "temp": 28.0,
+  "feelsLike": 33.9,
+  "humidity": 80,
+  "windSpeed": 1.0,
   "condition": "Partly Cloudy",
   "conditionCode": 2
 }
