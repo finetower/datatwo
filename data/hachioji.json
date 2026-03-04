@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-04T00:24:05Z",
+  "updatedAt": "2026-03-04T00:34:06Z",
   "city": "Hachioji",
   "country": "JP",
   "lat": 35.6665,
   "lng": 139.316,
-  "temp": 7.0,
-  "feelsLike": 4.3,
-  "humidity": 83,
-  "windSpeed": 2.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 7.7,
+  "feelsLike": 5.0,
+  "humidity": 80,
+  "windSpeed": 2.7,
+  "condition": "Clear",
+  "conditionCode": 0
 }
