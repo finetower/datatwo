@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T03:24:17Z",
+  "updatedAt": "2026-03-06T03:34:11Z",
   "city": "Oslo",
   "country": "NO",
   "lat": 59.9139,
@@ -8,6 +8,6 @@
   "feelsLike": -1.5,
   "humidity": 99,
   "windSpeed": 0.7,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
