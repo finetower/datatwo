@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T04:04:11Z",
+  "updatedAt": "2026-03-06T04:24:10Z",
   "city": "Boston",
   "country": "US",
   "lat": 42.3601,
@@ -7,7 +7,7 @@
   "temp": 0.6,
   "feelsLike": -4.6,
   "humidity": 97,
-  "windSpeed": 6.0,
+  "windSpeed": 5.9,
   "condition": "Snow",
-  "conditionCode": 75
+  "conditionCode": 73
 }
