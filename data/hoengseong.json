@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-05T05:04:07Z",
+  "updatedAt": "2026-03-06T00:04:15Z",
   "city": "Hoengseong",
   "country": "KR",
   "lat": 37.4918,
   "lng": 127.985,
-  "temp": 11.5,
-  "feelsLike": 9.0,
-  "humidity": 37,
-  "windSpeed": 1.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 1.2,
+  "feelsLike": -2.3,
+  "humidity": 83,
+  "windSpeed": 2.2,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
