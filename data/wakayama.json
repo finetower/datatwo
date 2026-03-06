@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-06T02:34:13Z",
+  "updatedAt": "2026-03-06T02:54:17Z",
   "city": "Wakayama",
   "country": "JP",
   "lat": 34.2261,
   "lng": 135.1675,
-  "temp": 15.0,
-  "feelsLike": 13.1,
+  "temp": 15.1,
+  "feelsLike": 13.3,
   "humidity": 62,
   "windSpeed": 3.1,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
