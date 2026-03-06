@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-06T03:44:12Z",
+  "updatedAt": "2026-03-06T04:04:12Z",
   "city": "Ankara",
   "country": "TR",
   "lat": 39.9334,
   "lng": 32.8597,
-  "temp": 3.6,
-  "feelsLike": 0.8,
-  "humidity": 64,
+  "temp": 3.5,
+  "feelsLike": 0.7,
+  "humidity": 65,
   "windSpeed": 0.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
