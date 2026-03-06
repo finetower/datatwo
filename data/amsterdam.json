@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-06T02:24:15Z",
+  "updatedAt": "2026-03-06T02:34:14Z",
   "city": "Amsterdam",
   "country": "NL",
   "lat": 52.3676,
   "lng": 4.9041,
-  "temp": 9.7,
-  "feelsLike": 6.5,
+  "temp": 9.5,
+  "feelsLike": 6.3,
   "humidity": 66,
-  "windSpeed": 3.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "windSpeed": 3.2,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
