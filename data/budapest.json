@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-06T02:04:15Z",
+  "updatedAt": "2026-03-06T02:24:15Z",
   "city": "Budapest",
   "country": "HU",
   "lat": 47.4979,
   "lng": 19.0402,
-  "temp": 7.3,
-  "feelsLike": 4.9,
+  "temp": 7.2,
+  "feelsLike": 4.8,
   "humidity": 73,
-  "windSpeed": 1.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "windSpeed": 1.5,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
