@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-06T00:54:15Z",
+  "updatedAt": "2026-03-06T01:04:16Z",
   "city": "Bangkok",
   "country": "TH",
   "lat": 13.7563,
   "lng": 100.5018,
-  "temp": 25.6,
-  "feelsLike": 29.4,
-  "humidity": 80,
+  "temp": 25.8,
+  "feelsLike": 29.6,
+  "humidity": 79,
   "windSpeed": 2.1,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
