@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-07T03:04:07Z",
+  "updatedAt": "2026-03-07T03:24:08Z",
   "city": "Atlanta",
   "country": "US",
   "lat": 33.749,
   "lng": -84.388,
-  "temp": 19.3,
-  "feelsLike": 20.8,
-  "humidity": 88,
-  "windSpeed": 2.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 19.2,
+  "feelsLike": 20.3,
+  "humidity": 87,
+  "windSpeed": 2.6,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
