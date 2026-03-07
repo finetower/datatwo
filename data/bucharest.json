@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-07T03:54:07Z",
+  "updatedAt": "2026-03-07T04:04:07Z",
   "city": "Bucharest",
   "country": "RO",
   "lat": 44.4268,
   "lng": 26.1025,
-  "temp": 2.3,
-  "feelsLike": -0.6,
-  "humidity": 79,
-  "windSpeed": 1.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 2.2,
+  "feelsLike": -0.7,
+  "humidity": 80,
+  "windSpeed": 1.1,
+  "condition": "Clear",
+  "conditionCode": 0
 }
