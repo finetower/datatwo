@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-06T05:04:11Z",
+  "updatedAt": "2026-03-07T00:04:07Z",
   "city": "Bucheon",
   "country": "KR",
   "lat": 37.4989,
   "lng": 126.7831,
-  "temp": 3.6,
-  "feelsLike": -1.6,
-  "humidity": 68,
-  "windSpeed": 5.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": -3.9,
+  "feelsLike": -8.9,
+  "humidity": 52,
+  "windSpeed": 3.0,
+  "condition": "Clear",
+  "conditionCode": 0
 }
