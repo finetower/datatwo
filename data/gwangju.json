@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-07T00:34:07Z",
+  "updatedAt": "2026-03-07T00:44:07Z",
   "city": "Gwangju",
   "country": "KR",
   "lat": 35.1595,
   "lng": 126.8526,
-  "temp": 1.2,
-  "feelsLike": -2.6,
-  "humidity": 64,
-  "windSpeed": 2.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 0.8,
+  "feelsLike": -2.9,
+  "humidity": 65,
+  "windSpeed": 1.6,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
