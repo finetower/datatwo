@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-08T03:04:07Z",
+  "updatedAt": "2026-03-08T03:24:07Z",
   "city": "Jinju",
   "country": "KR",
   "lat": 35.1798,
   "lng": 128.1076,
-  "temp": 6.6,
-  "feelsLike": 5.1,
+  "temp": 7.1,
+  "feelsLike": 5.5,
   "humidity": 43,
-  "windSpeed": 0.6,
+  "windSpeed": 0.8,
   "condition": "Mostly Clear",
   "conditionCode": 1
 }
