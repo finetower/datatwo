@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-09T04:54:07Z",
+  "updatedAt": "2026-03-09T05:04:07Z",
   "city": "Hualien",
   "country": "TW",
   "lat": 23.9871,
   "lng": 121.6018,
-  "temp": 14.9,
-  "feelsLike": 14.8,
+  "temp": 14.8,
+  "feelsLike": 14.5,
   "humidity": 95,
-  "windSpeed": 2.9,
-  "condition": "Shower",
-  "conditionCode": 80
+  "windSpeed": 3.0,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
