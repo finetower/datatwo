@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-09T01:04:09Z",
+  "updatedAt": "2026-03-09T01:24:09Z",
   "city": "Omaha",
   "country": "US",
   "lat": 41.2565,
   "lng": -95.9345,
-  "temp": 17.6,
-  "feelsLike": 13.3,
+  "temp": 17.3,
+  "feelsLike": 12.6,
   "humidity": 31,
-  "windSpeed": 4.3,
+  "windSpeed": 4.9,
   "condition": "Clear",
   "conditionCode": 0
 }
