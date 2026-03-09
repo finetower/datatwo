@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-08T05:04:09Z",
+  "updatedAt": "2026-03-09T00:04:07Z",
   "city": "Geoje",
   "country": "KR",
   "lat": 34.8803,
   "lng": 128.6213,
-  "temp": 8.5,
-  "feelsLike": 6.2,
-  "humidity": 60,
-  "windSpeed": 1.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 3.9,
+  "feelsLike": -0.6,
+  "humidity": 65,
+  "windSpeed": 4.0,
+  "condition": "Clear",
+  "conditionCode": 0
 }
