@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T03:44:07Z",
+  "updatedAt": "2026-03-09T04:04:09Z",
   "city": "Kyiv",
   "country": "UA",
   "lat": 50.4501,
@@ -8,6 +8,6 @@
   "feelsLike": -2.5,
   "humidity": 69,
   "windSpeed": 1.3,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
