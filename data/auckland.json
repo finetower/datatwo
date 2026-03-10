@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-10T01:04:07Z",
+  "updatedAt": "2026-03-10T01:24:07Z",
   "city": "Auckland",
   "country": "NZ",
   "lat": -36.8485,
   "lng": 174.7633,
-  "temp": 22.1,
-  "feelsLike": 20.1,
+  "temp": 22.0,
+  "feelsLike": 19.8,
   "humidity": 58,
-  "windSpeed": 6.1,
+  "windSpeed": 6.2,
   "condition": "Cloudy",
   "conditionCode": 3
 }
