@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-10T03:24:07Z",
+  "updatedAt": "2026-03-10T03:34:07Z",
   "city": "Tampa",
   "country": "US",
   "lat": 27.9506,
   "lng": -82.4572,
-  "temp": 22.0,
-  "feelsLike": 24.8,
-  "humidity": 86,
-  "windSpeed": 1.4,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 22.5,
+  "feelsLike": 25.8,
+  "humidity": 85,
+  "windSpeed": 0.8,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
