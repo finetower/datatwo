@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-09T05:04:07Z",
+  "updatedAt": "2026-03-10T00:04:08Z",
   "city": "Kolkata",
   "country": "IN",
   "lat": 22.5726,
   "lng": 88.3639,
-  "temp": 29.1,
-  "feelsLike": 34.5,
-  "humidity": 68,
-  "windSpeed": 1.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 23.8,
+  "feelsLike": 29.1,
+  "humidity": 96,
+  "windSpeed": 0.6,
+  "condition": "Fog",
+  "conditionCode": 45
 }
