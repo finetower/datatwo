@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-11T04:25:35Z",
+  "updatedAt": "2026-03-11T04:34:10Z",
   "city": "Buan",
   "country": "KR",
   "lat": 35.73,
   "lng": 126.733,
-  "temp": 8.1,
-  "feelsLike": 4.5,
-  "humidity": 49,
-  "windSpeed": 3.8,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 8.0,
+  "feelsLike": 4.1,
+  "humidity": 52,
+  "windSpeed": 4.3,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
