@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-11T00:34:21Z",
+  "updatedAt": "2026-03-11T00:44:20Z",
   "city": "Namwon",
   "country": "KR",
   "lat": 35.4163,
   "lng": 127.39,
-  "temp": 2.3,
-  "feelsLike": -0.7,
-  "humidity": 63,
-  "windSpeed": 0.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 2.6,
+  "feelsLike": -0.5,
+  "humidity": 62,
+  "windSpeed": 0.8,
+  "condition": "Clear",
+  "conditionCode": 0
 }
