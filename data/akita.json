@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-10T05:04:07Z",
+  "updatedAt": "2026-03-11T00:04:29Z",
   "city": "Akita",
   "country": "JP",
   "lat": 39.7186,
   "lng": 140.1024,
-  "temp": 3.9,
-  "feelsLike": -0.2,
-  "humidity": 55,
-  "windSpeed": 2.7,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 0.7,
+  "feelsLike": -2.5,
+  "humidity": 67,
+  "windSpeed": 0.7,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

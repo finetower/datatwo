@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-10T05:04:07Z",
+  "updatedAt": "2026-03-11T00:04:29Z",
   "city": "Fukushima",
   "country": "JP",
   "lat": 37.7503,
   "lng": 140.4676,
-  "temp": 6.1,
-  "feelsLike": 1.7,
-  "humidity": 56,
-  "windSpeed": 3.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 3.4,
+  "feelsLike": 0.4,
+  "humidity": 62,
+  "windSpeed": 0.8,
+  "condition": "Clear",
+  "conditionCode": 0
 }
