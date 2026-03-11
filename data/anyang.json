@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-11T00:44:20Z",
+  "updatedAt": "2026-03-11T00:54:18Z",
   "city": "Anyang",
   "country": "KR",
   "lat": 37.3943,
   "lng": 126.9568,
-  "temp": 2.4,
-  "feelsLike": -0.1,
-  "humidity": 73,
-  "windSpeed": 0.2,
+  "temp": 3.0,
+  "feelsLike": 0.6,
+  "humidity": 71,
+  "windSpeed": 0.1,
   "condition": "Mostly Clear",
   "conditionCode": 1
 }
