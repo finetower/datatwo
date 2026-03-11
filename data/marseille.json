@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-11T01:44:23Z",
+  "updatedAt": "2026-03-11T01:54:14Z",
   "city": "Marseille",
   "country": "FR",
   "lat": 43.2965,
   "lng": 5.3698,
-  "temp": 10.8,
-  "feelsLike": 10.0,
+  "temp": 10.7,
+  "feelsLike": 9.8,
   "humidity": 82,
-  "windSpeed": 2.6,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 2.5,
+  "condition": "Clear",
+  "conditionCode": 0
 }
