@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-12T02:34:10Z",
+  "updatedAt": "2026-03-12T02:54:18Z",
   "city": "New York",
   "country": "US",
   "lat": 40.7128,
   "lng": -74.006,
-  "temp": 14.5,
-  "feelsLike": 14.1,
-  "humidity": 91,
-  "windSpeed": 2.6,
+  "temp": 14.9,
+  "feelsLike": 14.4,
+  "humidity": 90,
+  "windSpeed": 2.9,
   "condition": "Cloudy",
   "conditionCode": 3
 }
