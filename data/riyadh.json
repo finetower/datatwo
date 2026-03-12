@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-12T01:54:26Z",
+  "updatedAt": "2026-03-12T02:04:10Z",
   "city": "Riyadh",
   "country": "SA",
   "lat": 24.6877,
   "lng": 46.7219,
   "temp": 16.6,
-  "feelsLike": 17.6,
+  "feelsLike": 17.7,
   "humidity": 93,
   "windSpeed": 1.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Shower",
+  "conditionCode": 80
 }
