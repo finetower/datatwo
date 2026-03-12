@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-12T03:54:08Z",
+  "updatedAt": "2026-03-12T04:04:13Z",
   "city": "Sapporo",
   "country": "JP",
   "lat": 43.0618,
   "lng": 141.3545,
-  "temp": -1.5,
-  "feelsLike": -7.0,
-  "humidity": 84,
-  "windSpeed": 5.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": -1.8,
+  "feelsLike": -6.9,
+  "humidity": 86,
+  "windSpeed": 4.7,
+  "condition": "Snow",
+  "conditionCode": 71
 }
