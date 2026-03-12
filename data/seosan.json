@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-11T05:04:15Z",
+  "updatedAt": "2026-03-12T00:04:16Z",
   "city": "Seosan",
   "country": "KR",
   "lat": 36.785,
   "lng": 126.45,
-  "temp": 6.6,
-  "feelsLike": 3.0,
-  "humidity": 69,
-  "windSpeed": 3.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 1.6,
+  "feelsLike": -1.4,
+  "humidity": 100,
+  "windSpeed": 2.0,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
