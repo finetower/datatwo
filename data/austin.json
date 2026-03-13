@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-13T01:24:08Z",
+  "updatedAt": "2026-03-13T01:34:07Z",
   "city": "Austin",
   "country": "US",
   "lat": 30.2672,
   "lng": -97.7431,
-  "temp": 16.5,
-  "feelsLike": 12.9,
-  "humidity": 26,
-  "windSpeed": 2.1,
+  "temp": 16.0,
+  "feelsLike": 12.5,
+  "humidity": 27,
+  "windSpeed": 2.0,
   "condition": "Clear",
   "conditionCode": 0
 }
