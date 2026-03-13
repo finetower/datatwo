@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-13T03:44:08Z",
+  "updatedAt": "2026-03-13T03:54:07Z",
   "city": "Asahikawa",
   "country": "JP",
   "lat": 43.7706,
   "lng": 142.365,
-  "temp": 2.9,
+  "temp": 3.0,
   "feelsLike": -2.1,
-  "humidity": 62,
-  "windSpeed": 4.5,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "humidity": 63,
+  "windSpeed": 4.8,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }

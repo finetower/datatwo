@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-13T03:44:08Z",
+  "updatedAt": "2026-03-13T03:54:07Z",
   "city": "Shenzhen",
   "country": "CN",
   "lat": 22.5431,
   "lng": 114.0579,
-  "temp": 20.7,
-  "feelsLike": 21.8,
-  "humidity": 51,
-  "windSpeed": 2.0,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 20.9,
+  "feelsLike": 22.0,
+  "humidity": 50,
+  "windSpeed": 2.2,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
