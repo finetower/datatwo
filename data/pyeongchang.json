@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-14T05:04:14Z",
+  "updatedAt": "2026-03-14T12:45:11Z",
   "city": "Pyeongchang",
   "country": "KR",
   "lat": 37.3705,
   "lng": 128.391,
-  "temp": 6.8,
-  "feelsLike": 4.1,
-  "humidity": 60,
-  "windSpeed": 1.4,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 0.3,
+  "feelsLike": -3.5,
+  "humidity": 69,
+  "windSpeed": 2.0,
+  "condition": "Clear",
+  "conditionCode": 0
 }
