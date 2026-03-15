@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-15T15:04:10Z",
+  "updatedAt": "2026-03-15T15:24:09Z",
   "city": "Tel Aviv",
   "country": "IL",
   "lat": 32.0853,
   "lng": 34.7818,
-  "temp": 17.2,
-  "feelsLike": 15.4,
+  "temp": 17.1,
+  "feelsLike": 15.3,
   "humidity": 67,
-  "windSpeed": 4.1,
+  "windSpeed": 3.9,
   "condition": "Partly Cloudy",
   "conditionCode": 2
 }
