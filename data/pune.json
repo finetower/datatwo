@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-15T10:54:07Z",
+  "updatedAt": "2026-03-15T11:04:07Z",
   "city": "Pune",
   "country": "IN",
   "lat": 18.5204,
   "lng": 73.8567,
-  "temp": 33.9,
+  "temp": 33.7,
   "feelsLike": 30.8,
-  "humidity": 22,
+  "humidity": 23,
   "windSpeed": 5.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
