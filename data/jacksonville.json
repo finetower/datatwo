@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-15T11:24:10Z",
+  "updatedAt": "2026-03-15T11:34:11Z",
   "city": "Jacksonville",
   "country": "US",
   "lat": 30.3322,
   "lng": -81.6557,
-  "temp": 18.8,
-  "feelsLike": 20.8,
-  "humidity": 95,
+  "temp": 19.4,
+  "feelsLike": 21.8,
+  "humidity": 96,
   "windSpeed": 1.8,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
