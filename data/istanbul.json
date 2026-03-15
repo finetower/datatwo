@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-15T11:54:07Z",
+  "updatedAt": "2026-03-15T12:04:08Z",
   "city": "Istanbul",
   "country": "TR",
   "lat": 41.0082,
   "lng": 28.9784,
-  "temp": 10.4,
-  "feelsLike": 6.6,
-  "humidity": 66,
+  "temp": 10.5,
+  "feelsLike": 6.9,
+  "humidity": 71,
   "windSpeed": 4.7,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
