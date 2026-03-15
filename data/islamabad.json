@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-15T14:34:07Z",
+  "updatedAt": "2026-03-15T15:04:10Z",
   "city": "Islamabad",
   "country": "PK",
   "lat": 33.6844,
   "lng": 73.0479,
-  "temp": 14.5,
+  "temp": 14.4,
   "feelsLike": 14.0,
   "humidity": 87,
   "windSpeed": 2.2,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
