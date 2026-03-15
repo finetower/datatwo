@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-15T01:04:10Z",
+  "updatedAt": "2026-03-15T01:24:11Z",
   "city": "Mexico City",
   "country": "MX",
   "lat": 19.4326,
   "lng": -99.1332,
-  "temp": 14.8,
-  "feelsLike": 13.7,
-  "humidity": 62,
-  "windSpeed": 0.9,
+  "temp": 14.5,
+  "feelsLike": 13.6,
+  "humidity": 64,
+  "windSpeed": 0.6,
   "condition": "Cloudy",
   "conditionCode": 3
 }
