@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-16T00:04:07Z",
+  "updatedAt": "2026-03-16T00:24:07Z",
   "city": "Ottawa",
   "country": "CA",
   "lat": 45.4215,
   "lng": -75.6972,
-  "temp": -4.2,
-  "feelsLike": -10.5,
+  "temp": -3.7,
+  "feelsLike": -9.9,
   "humidity": 85,
-  "windSpeed": 6.4,
+  "windSpeed": 6.3,
   "condition": "Cloudy",
   "conditionCode": 3
 }
