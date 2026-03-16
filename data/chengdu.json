@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-16T03:44:08Z",
+  "updatedAt": "2026-03-16T03:54:07Z",
   "city": "Chengdu",
   "country": "CN",
   "lat": 30.5728,
   "lng": 104.0668,
-  "temp": 13.0,
-  "feelsLike": 11.7,
-  "humidity": 60,
-  "windSpeed": 0.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 12.5,
+  "feelsLike": 11.2,
+  "humidity": 63,
+  "windSpeed": 0.5,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
