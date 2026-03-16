@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-16T02:34:08Z",
+  "updatedAt": "2026-03-16T02:54:07Z",
   "city": "Anchorage",
   "country": "US",
   "lat": 61.2181,
   "lng": -149.9003,
-  "temp": -6.6,
-  "feelsLike": -11.3,
-  "humidity": 50,
-  "windSpeed": 2.0,
+  "temp": -6.5,
+  "feelsLike": -11.2,
+  "humidity": 51,
+  "windSpeed": 2.2,
   "condition": "Cloudy",
   "conditionCode": 3
 }
