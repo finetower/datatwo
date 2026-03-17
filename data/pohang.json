@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-17T01:24:10Z",
+  "updatedAt": "2026-03-17T01:34:07Z",
   "city": "Pohang",
   "country": "KR",
   "lat": 36.019,
   "lng": 129.3435,
-  "temp": 11.6,
-  "feelsLike": 10.6,
-  "humidity": 74,
+  "temp": 12.1,
+  "feelsLike": 11.3,
+  "humidity": 72,
   "windSpeed": 0.5,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
