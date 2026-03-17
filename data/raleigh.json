@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-17T03:24:10Z",
+  "updatedAt": "2026-03-17T03:34:09Z",
   "city": "Raleigh",
   "country": "US",
   "lat": 35.7796,
   "lng": -78.6382,
-  "temp": 5.9,
-  "feelsLike": 0.0,
+  "temp": 5.6,
+  "feelsLike": -0.1,
   "humidity": 69,
-  "windSpeed": 7.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "windSpeed": 6.9,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
