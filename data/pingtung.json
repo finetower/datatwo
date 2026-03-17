@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-17T01:54:07Z",
+  "updatedAt": "2026-03-17T02:04:13Z",
   "city": "Pingtung",
   "country": "TW",
   "lat": 22.6726,
   "lng": 120.4871,
-  "temp": 24.9,
-  "feelsLike": 26.3,
-  "humidity": 48,
-  "windSpeed": 1.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 25.2,
+  "feelsLike": 26.7,
+  "humidity": 47,
+  "windSpeed": 1.4,
+  "condition": "Clear",
+  "conditionCode": 0
 }
