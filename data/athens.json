@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-18T02:54:07Z",
+  "updatedAt": "2026-03-18T03:04:07Z",
   "city": "Athens",
   "country": "GR",
   "lat": 37.9838,
   "lng": 23.7275,
   "temp": 8.6,
-  "feelsLike": 6.3,
+  "feelsLike": 6.2,
   "humidity": 70,
   "windSpeed": 1.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
