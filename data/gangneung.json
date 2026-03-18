@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-18T03:04:07Z",
+  "updatedAt": "2026-03-18T03:24:07Z",
   "city": "Gangneung",
   "country": "KR",
   "lat": 37.7519,
   "lng": 128.8761,
-  "temp": 8.8,
-  "feelsLike": 6.3,
+  "temp": 8.6,
+  "feelsLike": 6.0,
   "humidity": 91,
-  "windSpeed": 3.5,
+  "windSpeed": 3.6,
   "condition": "Rain",
   "conditionCode": 51
 }
