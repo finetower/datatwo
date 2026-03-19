@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-19T01:54:15Z",
+  "updatedAt": "2026-03-19T02:04:13Z",
   "city": "Nanjing",
   "country": "CN",
   "lat": 32.0603,
   "lng": 118.7969,
-  "temp": 9.6,
-  "feelsLike": 8.8,
-  "humidity": 90,
-  "windSpeed": 0.5,
-  "condition": "Fog",
-  "conditionCode": 45
+  "temp": 9.8,
+  "feelsLike": 9.0,
+  "humidity": 88,
+  "windSpeed": 0.6,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
