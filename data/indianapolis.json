@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-19T02:24:11Z",
+  "updatedAt": "2026-03-19T02:34:06Z",
   "city": "Indianapolis",
   "country": "US",
   "lat": 39.7684,
   "lng": -86.1581,
-  "temp": 4.6,
-  "feelsLike": 1.1,
-  "humidity": 64,
-  "windSpeed": 2.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 4.3,
+  "feelsLike": 0.7,
+  "humidity": 62,
+  "windSpeed": 2.1,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
