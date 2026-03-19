@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T11:54:09Z",
+  "updatedAt": "2026-03-19T12:04:09Z",
   "city": "Brisbane",
   "country": "AU",
   "lat": -27.4698,
@@ -7,7 +7,7 @@
   "temp": 21.6,
   "feelsLike": 25.0,
   "humidity": 92,
-  "windSpeed": 1.2,
-  "condition": "Thunderstorm",
-  "conditionCode": 95
+  "windSpeed": 1.3,
+  "condition": "Shower",
+  "conditionCode": 80
 }
