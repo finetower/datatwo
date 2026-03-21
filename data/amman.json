@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-21T00:54:08Z",
+  "updatedAt": "2026-03-21T01:04:15Z",
   "city": "Amman",
   "country": "JO",
   "lat": 31.9454,
   "lng": 35.9284,
   "temp": 8.6,
-  "feelsLike": 6.2,
+  "feelsLike": 6.3,
   "humidity": 95,
-  "windSpeed": 3.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "windSpeed": 3.5,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
