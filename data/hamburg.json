@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T01:34:07Z",
+  "updatedAt": "2026-03-22T01:44:08Z",
   "city": "Hamburg",
   "country": "DE",
   "lat": 53.5753,
@@ -8,6 +8,6 @@
   "feelsLike": -1.5,
   "humidity": 99,
   "windSpeed": 1.6,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Fog",
+  "conditionCode": 45
 }
