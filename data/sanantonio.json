@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-22T00:24:08Z",
+  "updatedAt": "2026-03-22T00:34:07Z",
   "city": "San Antonio",
   "country": "US",
   "lat": 29.4241,
   "lng": -98.4936,
-  "temp": 31.5,
-  "feelsLike": 28.8,
+  "temp": 31.1,
+  "feelsLike": 28.3,
   "humidity": 22,
-  "windSpeed": 3.7,
+  "windSpeed": 3.8,
   "condition": "Clear",
   "conditionCode": 0
 }
