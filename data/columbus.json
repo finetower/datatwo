@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-23T04:34:07Z",
+  "updatedAt": "2026-03-23T04:54:07Z",
   "city": "Columbus",
   "country": "US",
   "lat": 39.9612,
   "lng": -82.9988,
   "temp": 8.0,
-  "feelsLike": 6.2,
+  "feelsLike": 5.7,
   "humidity": 94,
-  "windSpeed": 2.1,
+  "windSpeed": 2.8,
   "condition": "Rain",
-  "conditionCode": 63
+  "conditionCode": 65
 }
