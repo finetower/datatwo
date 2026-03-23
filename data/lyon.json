@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-23T20:54:09Z",
+  "updatedAt": "2026-03-23T21:04:08Z",
   "city": "Lyon",
   "country": "FR",
   "lat": 45.764,
   "lng": 4.8357,
-  "temp": 11.2,
-  "feelsLike": 8.8,
-  "humidity": 59,
+  "temp": 11.1,
+  "feelsLike": 8.7,
+  "humidity": 60,
   "windSpeed": 1.6,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
