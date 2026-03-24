@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-24T04:54:07Z",
+  "updatedAt": "2026-03-24T05:04:07Z",
   "city": "Gifu",
   "country": "JP",
   "lat": 35.4232,
   "lng": 136.7608,
-  "temp": 17.8,
-  "feelsLike": 16.3,
+  "temp": 17.9,
+  "feelsLike": 16.2,
   "humidity": 32,
-  "windSpeed": 1.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 1.8,
+  "condition": "Clear",
+  "conditionCode": 0
 }
