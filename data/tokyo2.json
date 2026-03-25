@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T03:54:07Z",
+  "updatedAt": "2026-03-25T04:04:07Z",
   "city": "Tachikawa",
   "country": "JP",
   "lat": 35.6942,
   "lng": 139.4168,
-  "temp": 9.4,
-  "feelsLike": 8.1,
-  "humidity": 79,
+  "temp": 9.5,
+  "feelsLike": 8.2,
+  "humidity": 80,
   "windSpeed": 0.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Rain",
+  "conditionCode": 51
 }
