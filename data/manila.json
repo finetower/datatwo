@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T13:54:07Z",
+  "updatedAt": "2026-03-25T14:04:08Z",
   "city": "Manila",
   "country": "PH",
   "lat": 14.5995,
   "lng": 120.9842,
   "temp": 27.3,
-  "feelsLike": 33.1,
+  "feelsLike": 33.2,
   "humidity": 86,
-  "windSpeed": 1.4,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 1.2,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
