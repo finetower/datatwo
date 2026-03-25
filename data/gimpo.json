@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T01:04:07Z",
+  "updatedAt": "2026-03-25T01:24:07Z",
   "city": "Gimpo",
   "country": "KR",
   "lat": 37.6148,
   "lng": 126.7157,
-  "temp": 7.5,
-  "feelsLike": 6.2,
-  "humidity": 95,
-  "windSpeed": 0.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 8.3,
+  "feelsLike": 7.2,
+  "humidity": 92,
+  "windSpeed": 1.1,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
