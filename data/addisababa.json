@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T00:54:07Z",
+  "updatedAt": "2026-03-25T01:04:07Z",
   "city": "Addis Ababa",
   "country": "ET",
   "lat": 9.032,
@@ -7,7 +7,7 @@
   "temp": 14.2,
   "feelsLike": 14.7,
   "humidity": 94,
-  "windSpeed": 1.1,
-  "condition": "Shower",
-  "conditionCode": 80
+  "windSpeed": 1.0,
+  "condition": "Thunderstorm",
+  "conditionCode": 95
 }
