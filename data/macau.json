@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T14:54:07Z",
+  "updatedAt": "2026-03-25T15:04:08Z",
   "city": "Macau",
   "country": "MO",
   "lat": 22.1987,
   "lng": 113.5439,
-  "temp": 23.4,
+  "temp": 23.3,
   "feelsLike": 26.9,
-  "humidity": 88,
+  "humidity": 89,
   "windSpeed": 1.8,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
