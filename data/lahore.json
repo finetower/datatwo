@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T16:34:07Z",
+  "updatedAt": "2026-03-25T16:54:07Z",
   "city": "Lahore",
   "country": "PK",
   "lat": 31.5204,
   "lng": 74.3587,
-  "temp": 23.3,
-  "feelsLike": 25.4,
+  "temp": 23.1,
+  "feelsLike": 25.2,
   "humidity": 69,
-  "windSpeed": 1.1,
+  "windSpeed": 0.9,
   "condition": "Cloudy",
   "conditionCode": 3
 }
