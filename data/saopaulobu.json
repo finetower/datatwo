@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T17:54:07Z",
+  "updatedAt": "2026-03-25T18:04:07Z",
   "city": "Sao Paulo",
   "country": "BR",
   "lat": -23.5505,
@@ -8,6 +8,6 @@
   "feelsLike": 30.4,
   "humidity": 50,
   "windSpeed": 2.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
