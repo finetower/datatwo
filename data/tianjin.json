@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-26T19:54:07Z",
+  "updatedAt": "2026-03-26T20:04:07Z",
   "city": "Tianjin",
   "country": "CN",
   "lat": 39.3434,
   "lng": 117.3616,
-  "temp": 12.6,
+  "temp": 12.3,
   "feelsLike": 9.6,
-  "humidity": 62,
-  "windSpeed": 3.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "humidity": 68,
+  "windSpeed": 3.3,
+  "condition": "Clear",
+  "conditionCode": 0
 }
