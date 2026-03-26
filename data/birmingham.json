@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-26T19:24:07Z",
+  "updatedAt": "2026-03-26T19:34:07Z",
   "city": "Birmingham",
   "country": "GB",
   "lat": 52.4862,
   "lng": -1.8904,
-  "temp": 8.7,
-  "feelsLike": 4.7,
+  "temp": 8.5,
+  "feelsLike": 4.5,
   "humidity": 55,
-  "windSpeed": 3.7,
+  "windSpeed": 3.5,
   "condition": "Cloudy",
   "conditionCode": 3
 }
