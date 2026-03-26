@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-26T19:34:07Z",
+  "updatedAt": "2026-03-26T19:54:07Z",
   "city": "Iksan",
   "country": "KR",
   "lat": 35.9483,
   "lng": 126.9547,
-  "temp": 4.2,
-  "feelsLike": 2.6,
+  "temp": 4.1,
+  "feelsLike": 2.5,
   "humidity": 99,
-  "windSpeed": 0.3,
+  "windSpeed": 0.4,
   "condition": "Cloudy",
   "conditionCode": 3
 }
