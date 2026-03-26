@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T18:54:09Z",
+  "updatedAt": "2026-03-26T01:14:07Z",
   "city": "Saitama",
   "country": "JP",
   "lat": 35.8617,
   "lng": 139.6455,
-  "temp": 8.0,
-  "feelsLike": 6.9,
-  "humidity": 99,
-  "windSpeed": 1.0,
+  "temp": 10.1,
+  "feelsLike": 9.2,
+  "humidity": 95,
+  "windSpeed": 1.5,
   "condition": "Rain",
-  "conditionCode": 53
+  "conditionCode": 61
 }

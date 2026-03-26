@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T18:54:10Z",
+  "updatedAt": "2026-03-26T01:14:07Z",
   "city": "Kaohsiung",
   "country": "TW",
   "lat": 22.6273,
   "lng": 120.3014,
-  "temp": 24.8,
-  "feelsLike": 28.3,
-  "humidity": 83,
-  "windSpeed": 2.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 24.4,
+  "feelsLike": 27.7,
+  "humidity": 84,
+  "windSpeed": 2.7,
+  "condition": "Shower",
+  "conditionCode": 80
 }

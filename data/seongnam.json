@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-25T18:54:09Z",
+  "updatedAt": "2026-03-26T01:14:07Z",
   "city": "Seongnam",
   "country": "KR",
   "lat": 37.42,
   "lng": 127.127,
-  "temp": 1.6,
-  "feelsLike": -1.1,
-  "humidity": 99,
-  "windSpeed": 1.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 7.6,
+  "feelsLike": 6.1,
+  "humidity": 82,
+  "windSpeed": 0.9,
+  "condition": "Clear",
+  "conditionCode": 0
 }
