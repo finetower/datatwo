@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T05:04:07Z",
+  "updatedAt": "2026-03-27T12:14:19Z",
   "city": "Okayama",
   "country": "JP",
   "lat": 34.6618,
   "lng": 133.9344,
-  "temp": 18.3,
-  "feelsLike": 17.7,
-  "humidity": 46,
-  "windSpeed": 1.9,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 11.8,
+  "feelsLike": 10.2,
+  "humidity": 67,
+  "windSpeed": 1.0,
+  "condition": "Clear",
+  "conditionCode": 0
 }
