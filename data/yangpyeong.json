@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T16:24:07Z",
+  "updatedAt": "2026-03-27T16:34:07Z",
   "city": "Yangpyeong",
   "country": "KR",
   "lat": 37.4913,
   "lng": 127.494,
-  "temp": 5.1,
-  "feelsLike": 2.9,
+  "temp": 4.9,
+  "feelsLike": 2.7,
   "humidity": 98,
-  "windSpeed": 1.7,
-  "condition": "Clear",
-  "conditionCode": 0
+  "windSpeed": 1.9,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
