@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T00:34:07Z",
+  "updatedAt": "2026-03-27T00:44:08Z",
   "city": "Tokushima",
   "country": "JP",
   "lat": 34.0657,
   "lng": 134.5593,
-  "temp": 12.0,
-  "feelsLike": 10.4,
+  "temp": 11.9,
+  "feelsLike": 10.3,
   "humidity": 69,
-  "windSpeed": 2.3,
-  "condition": "Clear",
-  "conditionCode": 0
+  "windSpeed": 2.2,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
