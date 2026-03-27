@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T13:54:07Z",
+  "updatedAt": "2026-03-27T14:04:07Z",
   "city": "Abu Dhabi",
   "country": "AE",
   "lat": 24.4539,
   "lng": 54.3773,
-  "temp": 23.2,
-  "feelsLike": 22.2,
+  "temp": 23.1,
+  "feelsLike": 22.1,
   "humidity": 72,
-  "windSpeed": 7.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 7.3,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
