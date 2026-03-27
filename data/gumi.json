@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T12:44:07Z",
+  "updatedAt": "2026-03-27T12:54:08Z",
   "city": "Gumi",
   "country": "KR",
   "lat": 36.1198,
   "lng": 128.3444,
-  "temp": 11.3,
-  "feelsLike": 9.9,
-  "humidity": 71,
-  "windSpeed": 1.0,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 11.2,
+  "feelsLike": 9.5,
+  "humidity": 70,
+  "windSpeed": 1.2,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
