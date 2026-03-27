@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T02:54:07Z",
+  "updatedAt": "2026-03-27T03:04:07Z",
   "city": "Niigata",
   "country": "JP",
   "lat": 37.9162,
   "lng": 139.0364,
-  "temp": 11.0,
-  "feelsLike": 10.4,
-  "humidity": 79,
+  "temp": 11.1,
+  "feelsLike": 10.6,
+  "humidity": 78,
   "windSpeed": 2.0,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
