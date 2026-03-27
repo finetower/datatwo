@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T15:04:07Z",
+  "updatedAt": "2026-03-27T15:24:08Z",
   "city": "Kuala Lumpur",
   "country": "MY",
   "lat": 3.139,
   "lng": 101.6869,
-  "temp": 27.2,
-  "feelsLike": 31.7,
+  "temp": 27.0,
+  "feelsLike": 31.3,
   "humidity": 80,
-  "windSpeed": 2.4,
+  "windSpeed": 2.5,
   "condition": "Shower",
   "conditionCode": 80
 }
