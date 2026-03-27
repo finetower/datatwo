@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T14:04:07Z",
+  "updatedAt": "2026-03-27T14:24:07Z",
   "city": "Ahmedabad",
   "country": "IN",
   "lat": 23.0225,
   "lng": 72.5714,
-  "temp": 31.8,
-  "feelsLike": 32.2,
-  "humidity": 35,
-  "windSpeed": 2.1,
+  "temp": 31.3,
+  "feelsLike": 32.0,
+  "humidity": 37,
+  "windSpeed": 1.7,
   "condition": "Clear",
   "conditionCode": 0
 }
