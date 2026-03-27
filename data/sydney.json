@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T14:54:07Z",
+  "updatedAt": "2026-03-27T15:04:07Z",
   "city": "Sydney",
   "country": "AU",
   "lat": -33.8688,
@@ -8,6 +8,6 @@
   "feelsLike": 10.4,
   "humidity": 56,
   "windSpeed": 5.1,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
