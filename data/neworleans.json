@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T12:24:07Z",
+  "updatedAt": "2026-03-27T12:34:07Z",
   "city": "New Orleans",
   "country": "US",
   "lat": 29.9511,
   "lng": -90.0715,
-  "temp": 16.4,
-  "feelsLike": 18.5,
-  "humidity": 99,
-  "windSpeed": 0.2,
-  "condition": "Fog",
-  "conditionCode": 45
+  "temp": 17.3,
+  "feelsLike": 19.7,
+  "humidity": 100,
+  "windSpeed": 0.3,
+  "condition": "Clear",
+  "conditionCode": 0
 }
