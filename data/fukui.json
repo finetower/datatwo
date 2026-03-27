@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T13:04:08Z",
+  "updatedAt": "2026-03-27T13:24:08Z",
   "city": "Fukui",
   "country": "JP",
   "lat": 36.0652,
   "lng": 136.2219,
-  "temp": 7.7,
-  "feelsLike": 6.5,
+  "temp": 7.5,
+  "feelsLike": 6.1,
   "humidity": 88,
-  "windSpeed": 0.4,
+  "windSpeed": 0.7,
   "condition": "Clear",
   "conditionCode": 0
 }

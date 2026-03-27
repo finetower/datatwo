@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T13:04:08Z",
+  "updatedAt": "2026-03-27T13:24:08Z",
   "city": "Asan",
   "country": "KR",
   "lat": 36.7898,
   "lng": 127.0048,
-  "temp": 6.9,
-  "feelsLike": 4.9,
-  "humidity": 97,
+  "temp": 6.8,
+  "feelsLike": 4.8,
+  "humidity": 98,
   "windSpeed": 2.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
