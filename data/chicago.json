@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-26T22:54:07Z",
+  "updatedAt": "2026-03-27T00:04:07Z",
   "city": "Chicago",
   "country": "US",
   "lat": 41.8781,
   "lng": -87.6298,
-  "temp": 5.3,
-  "feelsLike": -0.5,
-  "humidity": 94,
-  "windSpeed": 8.5,
-  "condition": "Rain",
-  "conditionCode": 51
+  "temp": 4.0,
+  "feelsLike": -2.2,
+  "humidity": 95,
+  "windSpeed": 8.8,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
