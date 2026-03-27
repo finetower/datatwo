@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T16:54:07Z",
+  "updatedAt": "2026-03-27T17:04:08Z",
   "city": "Cape Town",
   "country": "ZA",
   "lat": -33.9249,
   "lng": 18.4241,
   "temp": 18.5,
   "feelsLike": 18.9,
-  "humidity": 86,
+  "humidity": 87,
   "windSpeed": 3.3,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }

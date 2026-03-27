@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T16:54:07Z",
+  "updatedAt": "2026-03-27T17:04:08Z",
   "city": "Yeongwol",
   "country": "KR",
   "lat": 37.1809,
   "lng": 128.461,
   "temp": 4.7,
-  "feelsLike": 2.6,
+  "feelsLike": 2.5,
   "humidity": 98,
   "windSpeed": 1.5,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
