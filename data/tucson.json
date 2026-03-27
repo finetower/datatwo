@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-27T01:04:07Z",
+  "updatedAt": "2026-03-27T01:24:07Z",
   "city": "Tucson",
   "country": "US",
   "lat": 32.2226,
   "lng": -110.9747,
-  "temp": 32.9,
-  "feelsLike": 28.1,
+  "temp": 31.9,
+  "feelsLike": 27.1,
   "humidity": 5,
-  "windSpeed": 2.8,
+  "windSpeed": 2.6,
   "condition": "Clear",
   "conditionCode": 0
 }
