@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-28T00:44:07Z",
+  "updatedAt": "2026-03-28T00:54:08Z",
   "city": "Gwacheon",
   "country": "KR",
   "lat": 37.4292,
   "lng": 126.987,
-  "temp": 6.1,
-  "feelsLike": 4.7,
-  "humidity": 92,
-  "windSpeed": 0.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 6.8,
+  "feelsLike": 5.4,
+  "humidity": 89,
+  "windSpeed": 0.3,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
