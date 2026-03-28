@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-28T02:24:09Z",
+  "updatedAt": "2026-03-28T02:34:08Z",
   "city": "Kansas City",
   "country": "US",
   "lat": 39.0997,
   "lng": -94.5786,
-  "temp": 7.4,
-  "feelsLike": 2.8,
-  "humidity": 28,
-  "windSpeed": 2.6,
+  "temp": 7.0,
+  "feelsLike": 2.7,
+  "humidity": 33,
+  "windSpeed": 2.2,
   "condition": "Clear",
   "conditionCode": 0
 }
