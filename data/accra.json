@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T17:04:07Z",
+  "updatedAt": "2026-03-29T17:14:07Z",
   "city": "Accra",
   "country": "GH",
   "lat": 5.6037,
@@ -8,6 +8,6 @@
   "feelsLike": 35.0,
   "humidity": 75,
   "windSpeed": 3.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
