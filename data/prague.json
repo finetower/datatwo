@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T15:54:07Z",
+  "updatedAt": "2026-03-29T16:04:07Z",
   "city": "Prague",
   "country": "CZ",
   "lat": 50.0755,
@@ -8,6 +8,6 @@
   "feelsLike": 4.4,
   "humidity": 44,
   "windSpeed": 3.1,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
