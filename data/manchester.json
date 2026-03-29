@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-29T01:04:07Z",
+  "updatedAt": "2026-03-29T01:24:07Z",
   "city": "Manchester",
   "country": "GB",
   "lat": 53.4808,
   "lng": -2.2426,
-  "temp": 5.4,
-  "feelsLike": 3.1,
-  "humidity": 90,
-  "windSpeed": 1.6,
+  "temp": 5.3,
+  "feelsLike": 2.9,
+  "humidity": 91,
+  "windSpeed": 1.7,
   "condition": "Rain",
   "conditionCode": 53
 }

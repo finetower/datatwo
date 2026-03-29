@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-29T01:04:07Z",
+  "updatedAt": "2026-03-29T01:24:07Z",
   "city": "Nagoya",
   "country": "JP",
   "lat": 35.1815,
   "lng": 136.9066,
-  "temp": 15.1,
-  "feelsLike": 15.7,
-  "humidity": 69,
-  "windSpeed": 0.4,
+  "temp": 15.7,
+  "feelsLike": 16.7,
+  "humidity": 67,
+  "windSpeed": 0.3,
   "condition": "Clear",
   "conditionCode": 0
 }
