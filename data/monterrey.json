@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-30T00:54:07Z",
+  "updatedAt": "2026-03-30T01:04:07Z",
   "city": "Monterrey",
   "country": "MX",
   "lat": 25.6866,
   "lng": -100.3161,
-  "temp": 26.4,
-  "feelsLike": 23.6,
-  "humidity": 37,
-  "windSpeed": 5.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 25.8,
+  "feelsLike": 23.3,
+  "humidity": 39,
+  "windSpeed": 5.2,
+  "condition": "Clear",
+  "conditionCode": 0
 }
