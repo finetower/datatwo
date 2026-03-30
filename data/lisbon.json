@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-30T03:04:07Z",
+  "updatedAt": "2026-03-30T03:24:07Z",
   "city": "Lisbon",
   "country": "PT",
   "lat": 38.7169,
   "lng": -9.1395,
-  "temp": 13.8,
-  "feelsLike": 10.7,
-  "humidity": 55,
-  "windSpeed": 3.5,
+  "temp": 13.6,
+  "feelsLike": 10.3,
+  "humidity": 54,
+  "windSpeed": 3.7,
   "condition": "Clear",
   "conditionCode": 0
 }
