@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T00:34:07Z",
+  "updatedAt": "2026-03-30T00:44:07Z",
   "city": "New Orleans",
   "country": "US",
   "lat": 29.9511,
@@ -8,6 +8,6 @@
   "feelsLike": 19.7,
   "humidity": 86,
   "windSpeed": 3.8,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
