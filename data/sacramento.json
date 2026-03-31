@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-31T02:04:07Z",
+  "updatedAt": "2026-03-31T02:24:07Z",
   "city": "Sacramento",
   "country": "US",
   "lat": 38.5816,
   "lng": -121.4944,
-  "temp": 21.6,
-  "feelsLike": 21.3,
-  "humidity": 59,
-  "windSpeed": 2.6,
+  "temp": 21.1,
+  "feelsLike": 20.7,
+  "humidity": 60,
+  "windSpeed": 2.5,
   "condition": "Cloudy",
   "conditionCode": 3
 }
