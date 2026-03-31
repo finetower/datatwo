@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-31T00:34:07Z",
+  "updatedAt": "2026-03-31T00:44:07Z",
   "city": "Yamagata",
   "country": "JP",
   "lat": 38.2404,
   "lng": 140.3633,
-  "temp": 11.2,
+  "temp": 10.9,
   "feelsLike": 10.6,
-  "humidity": 88,
-  "windSpeed": 0.7,
+  "humidity": 90,
+  "windSpeed": 0.3,
   "condition": "Rain",
-  "conditionCode": 53
+  "conditionCode": 51
 }
