@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-03-31T23:54:07Z",
+  "updatedAt": "2026-04-01T00:04:07Z",
   "city": "Seattle",
   "country": "US",
   "lat": 47.6062,
   "lng": -122.3321,
-  "temp": 12.6,
-  "feelsLike": 9.7,
-  "humidity": 41,
-  "windSpeed": 1.4,
+  "temp": 12.5,
+  "feelsLike": 9.6,
+  "humidity": 42,
+  "windSpeed": 1.6,
   "condition": "Cloudy",
   "conditionCode": 3
 }
