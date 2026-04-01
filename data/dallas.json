@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T00:34:07Z",
+  "updatedAt": "2026-04-01T00:44:07Z",
   "city": "Dallas",
   "country": "US",
   "lat": 32.7767,
@@ -8,6 +8,6 @@
   "feelsLike": 25.7,
   "humidity": 44,
   "windSpeed": 4.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
