@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-01T01:54:07Z",
+  "updatedAt": "2026-04-01T02:04:07Z",
   "city": "San Francisco",
   "country": "US",
   "lat": 37.7749,
   "lng": -122.4194,
-  "temp": 14.1,
-  "feelsLike": 12.8,
+  "temp": 14.0,
+  "feelsLike": 12.7,
   "humidity": 90,
-  "windSpeed": 3.9,
+  "windSpeed": 3.8,
   "condition": "Rain",
-  "conditionCode": 61
+  "conditionCode": 55
 }
