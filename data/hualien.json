@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T03:54:07Z",
+  "updatedAt": "2026-04-02T04:04:07Z",
   "city": "Hualien",
   "country": "TW",
   "lat": 23.9871,
@@ -8,6 +8,6 @@
   "feelsLike": 17.9,
   "humidity": 82,
   "windSpeed": 2.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
