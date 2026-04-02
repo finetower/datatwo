@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-02T04:04:07Z",
+  "updatedAt": "2026-04-02T04:24:07Z",
   "city": "Charlotte",
   "country": "US",
   "lat": 35.2271,
   "lng": -80.8431,
-  "temp": 21.1,
-  "feelsLike": 20.7,
-  "humidity": 63,
-  "windSpeed": 2.9,
+  "temp": 20.9,
+  "feelsLike": 20.5,
+  "humidity": 64,
+  "windSpeed": 3.0,
   "condition": "Clear",
   "conditionCode": 0
 }
