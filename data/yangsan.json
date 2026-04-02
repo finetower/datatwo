@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-01T05:04:07Z",
+  "updatedAt": "2026-04-02T00:04:07Z",
   "city": "Yangsan",
   "country": "KR",
   "lat": 35.335,
   "lng": 129.037,
-  "temp": 12.7,
-  "feelsLike": 12.3,
-  "humidity": 89,
-  "windSpeed": 1.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 13.2,
+  "feelsLike": 10.5,
+  "humidity": 58,
+  "windSpeed": 2.8,
+  "condition": "Clear",
+  "conditionCode": 0
 }

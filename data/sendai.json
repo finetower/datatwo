@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-01T05:04:07Z",
+  "updatedAt": "2026-04-02T00:04:07Z",
   "city": "Sendai",
   "country": "JP",
   "lat": 38.2682,
   "lng": 140.8694,
-  "temp": 9.3,
-  "feelsLike": 7.2,
-  "humidity": 79,
-  "windSpeed": 1.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 4.2,
+  "feelsLike": 1.5,
+  "humidity": 94,
+  "windSpeed": 2.3,
+  "condition": "Rain",
+  "conditionCode": 63
 }

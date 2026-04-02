@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-01T05:04:07Z",
+  "updatedAt": "2026-04-02T00:04:07Z",
   "city": "Changhua",
   "country": "TW",
   "lat": 24.0718,
   "lng": 120.5161,
-  "temp": 22.8,
-  "feelsLike": 24.2,
-  "humidity": 87,
-  "windSpeed": 5.3,
-  "condition": "Shower",
-  "conditionCode": 80
+  "temp": 22.3,
+  "feelsLike": 22.3,
+  "humidity": 69,
+  "windSpeed": 4.0,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
