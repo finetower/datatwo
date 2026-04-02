@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-02T00:04:07Z",
+  "updatedAt": "2026-04-02T00:24:06Z",
   "city": "Siheung",
   "country": "KR",
   "lat": 37.3798,
   "lng": 126.8029,
-  "temp": 5.5,
-  "feelsLike": 3.5,
-  "humidity": 99,
-  "windSpeed": 1.5,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 6.5,
+  "feelsLike": 4.6,
+  "humidity": 96,
+  "windSpeed": 1.7,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
