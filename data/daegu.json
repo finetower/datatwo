@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-03T02:54:07Z",
+  "updatedAt": "2026-04-03T03:04:07Z",
   "city": "Daegu",
   "country": "KR",
   "lat": 35.8714,
   "lng": 128.6014,
-  "temp": 18.7,
-  "feelsLike": 18.7,
-  "humidity": 49,
+  "temp": 19.0,
+  "feelsLike": 18.9,
+  "humidity": 48,
   "windSpeed": 1.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
