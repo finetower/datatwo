@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T03:54:07Z",
+  "updatedAt": "2026-04-03T04:04:07Z",
   "city": "Bucharest",
   "country": "RO",
   "lat": 44.4268,
@@ -8,6 +8,6 @@
   "feelsLike": 7.0,
   "humidity": 95,
   "windSpeed": 2.6,
-  "condition": "Rain",
-  "conditionCode": 61
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
