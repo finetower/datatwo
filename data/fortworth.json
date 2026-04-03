@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-03T03:34:07Z",
+  "updatedAt": "2026-04-03T03:54:07Z",
   "city": "Fort Worth",
   "country": "US",
   "lat": 32.7555,
   "lng": -97.3308,
-  "temp": 24.3,
-  "feelsLike": 24.9,
+  "temp": 24.0,
+  "feelsLike": 24.1,
   "humidity": 69,
-  "windSpeed": 4.8,
+  "windSpeed": 5.2,
   "condition": "Clear",
   "conditionCode": 0
 }
