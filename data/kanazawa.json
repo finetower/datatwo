@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-02T05:04:07Z",
+  "updatedAt": "2026-04-03T00:04:07Z",
   "city": "Kanazawa",
   "country": "JP",
   "lat": 36.5613,
   "lng": 136.6562,
-  "temp": 11.8,
-  "feelsLike": 9.5,
-  "humidity": 68,
-  "windSpeed": 2.9,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 13.8,
+  "feelsLike": 12.0,
+  "humidity": 61,
+  "windSpeed": 1.8,
+  "condition": "Clear",
+  "conditionCode": 0
 }

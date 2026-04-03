@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-02T05:04:07Z",
+  "updatedAt": "2026-04-03T00:04:07Z",
   "city": "Incheon",
   "country": "KR",
   "lat": 37.4563,
   "lng": 126.7052,
-  "temp": 12.0,
-  "feelsLike": 10.8,
-  "humidity": 76,
-  "windSpeed": 4.0,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 6.4,
+  "feelsLike": 3.8,
+  "humidity": 98,
+  "windSpeed": 3.1,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
