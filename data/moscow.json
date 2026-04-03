@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-03T02:04:07Z",
+  "updatedAt": "2026-04-03T02:24:08Z",
   "city": "Moscow",
   "country": "RU",
   "lat": 55.7558,
   "lng": 37.6173,
-  "temp": 6.2,
-  "feelsLike": 3.9,
+  "temp": 6.1,
+  "feelsLike": 3.8,
   "humidity": 82,
-  "windSpeed": 1.6,
+  "windSpeed": 1.5,
   "condition": "Cloudy",
   "conditionCode": 3
 }
