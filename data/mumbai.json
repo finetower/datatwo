@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-04T03:04:09Z",
+  "updatedAt": "2026-04-04T03:24:09Z",
   "city": "Mumbai",
   "country": "IN",
   "lat": 19.076,
   "lng": 72.8777,
-  "temp": 27.0,
+  "temp": 27.1,
   "feelsLike": 31.7,
-  "humidity": 79,
-  "windSpeed": 1.5,
+  "humidity": 78,
+  "windSpeed": 1.6,
   "condition": "Cloudy",
   "conditionCode": 3
 }
