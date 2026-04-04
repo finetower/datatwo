@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T00:34:09Z",
+  "updatedAt": "2026-04-04T01:04:09Z",
   "city": "Ankara",
   "country": "TR",
   "lat": 39.9334,
@@ -8,6 +8,6 @@
   "feelsLike": 4.8,
   "humidity": 81,
   "windSpeed": 0.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

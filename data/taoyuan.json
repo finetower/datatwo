@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-04T00:54:09Z",
+  "updatedAt": "2026-04-04T01:04:09Z",
   "city": "Taoyuan",
   "country": "TW",
   "lat": 24.9937,
   "lng": 121.301,
-  "temp": 21.3,
-  "feelsLike": 21.0,
-  "humidity": 86,
-  "windSpeed": 6.8,
-  "condition": "Shower",
-  "conditionCode": 80
+  "temp": 21.1,
+  "feelsLike": 21.2,
+  "humidity": 88,
+  "windSpeed": 6.4,
+  "condition": "Thunderstorm",
+  "conditionCode": 95
 }

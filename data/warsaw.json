@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T00:54:09Z",
+  "updatedAt": "2026-04-04T01:04:09Z",
   "city": "Warsaw",
   "country": "PL",
   "lat": 52.2297,
@@ -7,7 +7,7 @@
   "temp": 5.7,
   "feelsLike": 2.9,
   "humidity": 76,
-  "windSpeed": 1.9,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 1.7,
+  "condition": "Clear",
+  "conditionCode": 0
 }
