@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-03T05:04:07Z",
+  "updatedAt": "2026-04-04T00:04:09Z",
   "city": "Miami",
   "country": "US",
   "lat": 25.7617,
   "lng": -80.1918,
   "temp": 23.7,
-  "feelsLike": 24.8,
-  "humidity": 80,
-  "windSpeed": 5.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "feelsLike": 24.1,
+  "humidity": 72,
+  "windSpeed": 5.2,
+  "condition": "Clear",
+  "conditionCode": 0
 }

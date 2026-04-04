@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-03T05:04:07Z",
+  "updatedAt": "2026-04-04T00:04:08Z",
   "city": "Suncheon",
   "country": "KR",
   "lat": 34.9506,
   "lng": 127.4872,
-  "temp": 18.5,
-  "feelsLike": 17.1,
-  "humidity": 63,
-  "windSpeed": 3.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 13.2,
+  "feelsLike": 11.0,
+  "humidity": 92,
+  "windSpeed": 5.3,
+  "condition": "Rain",
+  "conditionCode": 53
 }
