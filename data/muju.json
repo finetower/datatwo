@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-04T04:34:08Z",
+  "updatedAt": "2026-04-04T04:54:08Z",
   "city": "Muju",
   "country": "KR",
   "lat": 35.9077,
   "lng": 127.659,
-  "temp": 14.6,
-  "feelsLike": 13.1,
-  "humidity": 76,
+  "temp": 14.9,
+  "feelsLike": 13.4,
+  "humidity": 74,
   "windSpeed": 3.0,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
