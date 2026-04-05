@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-05T14:54:07Z",
+  "updatedAt": "2026-04-05T15:04:07Z",
   "city": "Nantou",
   "country": "TW",
   "lat": 23.9162,
   "lng": 120.6878,
   "temp": 24.6,
-  "feelsLike": 29.5,
+  "feelsLike": 29.4,
   "humidity": 90,
   "windSpeed": 1.0,
-  "condition": "Shower",
-  "conditionCode": 80
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
