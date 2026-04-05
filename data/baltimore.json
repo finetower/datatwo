@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-05T17:24:07Z",
+  "updatedAt": "2026-04-05T17:34:07Z",
   "city": "Baltimore",
   "country": "US",
   "lat": 39.2904,
   "lng": -76.6122,
-  "temp": 18.1,
-  "feelsLike": 17.8,
-  "humidity": 83,
-  "windSpeed": 4.0,
-  "condition": "Rain",
-  "conditionCode": 61
+  "temp": 17.0,
+  "feelsLike": 15.7,
+  "humidity": 84,
+  "windSpeed": 5.2,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
