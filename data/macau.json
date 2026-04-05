@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T02:54:07Z",
+  "updatedAt": "2026-04-05T03:04:07Z",
   "city": "Macau",
   "country": "MO",
   "lat": 22.1987,
@@ -8,6 +8,6 @@
   "feelsLike": 28.3,
   "humidity": 89,
   "windSpeed": 3.9,
-  "condition": "Shower",
-  "conditionCode": 80
+  "condition": "Thunderstorm",
+  "conditionCode": 95
 }
