@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-05T00:34:07Z",
+  "updatedAt": "2026-04-05T00:44:07Z",
   "city": "Matsue",
   "country": "JP",
   "lat": 35.4723,
   "lng": 133.0505,
-  "temp": 16.9,
-  "feelsLike": 17.5,
+  "temp": 16.7,
+  "feelsLike": 17.2,
   "humidity": 80,
-  "windSpeed": 1.0,
-  "condition": "Clear",
-  "conditionCode": 0
+  "windSpeed": 1.1,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
