@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-05T17:04:06Z",
+  "updatedAt": "2026-04-05T17:24:07Z",
   "city": "Hampyeong",
   "country": "KR",
   "lat": 35.0666,
   "lng": 126.523,
-  "temp": 9.1,
-  "feelsLike": 7.4,
-  "humidity": 99,
+  "temp": 8.7,
+  "feelsLike": 6.9,
+  "humidity": 98,
   "windSpeed": 2.6,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
