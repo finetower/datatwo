@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-06T00:34:06Z",
+  "updatedAt": "2026-04-06T00:44:06Z",
   "city": "Andong",
   "country": "KR",
   "lat": 36.5684,
   "lng": 128.7294,
-  "temp": 9.3,
-  "feelsLike": 8.0,
-  "humidity": 92,
-  "windSpeed": 1.4,
+  "temp": 9.0,
+  "feelsLike": 7.9,
+  "humidity": 94,
+  "windSpeed": 1.1,
   "condition": "Rain",
-  "conditionCode": 53
+  "conditionCode": 51
 }
