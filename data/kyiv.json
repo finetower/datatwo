@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-06T02:54:07Z",
+  "updatedAt": "2026-04-06T03:04:07Z",
   "city": "Kyiv",
   "country": "UA",
   "lat": 50.4501,
   "lng": 30.5234,
   "temp": 8.7,
   "feelsLike": 4.9,
-  "humidity": 52,
-  "windSpeed": 2.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "humidity": 53,
+  "windSpeed": 3.0,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
