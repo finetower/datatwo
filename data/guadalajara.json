@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-07T01:54:06Z",
+  "updatedAt": "2026-04-07T02:04:07Z",
   "city": "Guadalajara",
   "country": "MX",
   "lat": 20.6597,
   "lng": -103.3496,
-  "temp": 22.3,
+  "temp": 22.2,
   "feelsLike": 21.5,
   "humidity": 55,
-  "windSpeed": 3.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "windSpeed": 3.1,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
