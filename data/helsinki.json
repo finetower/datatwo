@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-07T02:44:06Z",
+  "updatedAt": "2026-04-07T02:54:06Z",
   "city": "Helsinki",
   "country": "FI",
   "lat": 60.1699,
   "lng": 24.9384,
-  "temp": 3.4,
-  "feelsLike": -1.3,
+  "temp": 3.3,
+  "feelsLike": -1.5,
   "humidity": 92,
-  "windSpeed": 5.6,
+  "windSpeed": 5.7,
   "condition": "Cloudy",
   "conditionCode": 3
 }
