@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-07T00:24:07Z",
+  "updatedAt": "2026-04-07T00:34:06Z",
   "city": "Kawasaki",
   "country": "JP",
   "lat": 35.5308,
   "lng": 139.703,
-  "temp": 17.2,
-  "feelsLike": 17.1,
+  "temp": 17.3,
+  "feelsLike": 17.3,
   "humidity": 80,
   "windSpeed": 2.5,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
