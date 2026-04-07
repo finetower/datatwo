@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-06T05:04:07Z",
+  "updatedAt": "2026-04-07T00:04:07Z",
   "city": "Phnom Penh",
   "country": "KH",
   "lat": 11.5564,
   "lng": 104.9282,
-  "temp": 34.5,
-  "feelsLike": 40.3,
-  "humidity": 49,
-  "windSpeed": 3.3,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 25.4,
+  "feelsLike": 30.2,
+  "humidity": 89,
+  "windSpeed": 2.0,
+  "condition": "Clear",
+  "conditionCode": 0
 }
