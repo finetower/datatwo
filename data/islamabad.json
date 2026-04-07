@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T00:54:07Z",
+  "updatedAt": "2026-04-07T01:04:07Z",
   "city": "Islamabad",
   "country": "PK",
   "lat": 33.6844,
@@ -8,6 +8,6 @@
   "feelsLike": 15.7,
   "humidity": 86,
   "windSpeed": 1.9,
-  "condition": "Thunderstorm",
-  "conditionCode": 95
+  "condition": "Shower",
+  "conditionCode": 80
 }
