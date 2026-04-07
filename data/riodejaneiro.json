@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-07T02:34:07Z",
+  "updatedAt": "2026-04-07T03:34:07Z",
   "city": "Rio de Janeiro",
   "country": "BR",
   "lat": -22.9068,
   "lng": -43.1729,
-  "temp": 25.2,
-  "feelsLike": 30.4,
+  "temp": 25.1,
+  "feelsLike": 30.3,
   "humidity": 88,
-  "windSpeed": 0.6,
+  "windSpeed": 0.5,
   "condition": "Cloudy",
   "conditionCode": 3
 }
