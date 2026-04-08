@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-08T12:34:06Z",
+  "updatedAt": "2026-04-08T12:54:06Z",
   "city": "Inje",
   "country": "KR",
   "lat": 38.0598,
   "lng": 128.17,
-  "temp": 7.1,
-  "feelsLike": 4.2,
-  "humidity": 60,
+  "temp": 6.7,
+  "feelsLike": 3.8,
+  "humidity": 62,
   "windSpeed": 1.4,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
