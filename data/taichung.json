@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:54:07Z",
+  "updatedAt": "2026-04-08T15:04:07Z",
   "city": "Taichung",
   "country": "TW",
   "lat": 24.1477,
@@ -8,6 +8,6 @@
   "feelsLike": 25.3,
   "humidity": 95,
   "windSpeed": 0.8,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Fog",
+  "conditionCode": 45
 }
