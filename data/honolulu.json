@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T15:54:07Z",
+  "updatedAt": "2026-04-08T16:04:09Z",
   "city": "Honolulu",
   "country": "US",
   "lat": 21.3069,
@@ -8,6 +8,6 @@
   "feelsLike": 27.3,
   "humidity": 95,
   "windSpeed": 1.0,
-  "condition": "Fog",
-  "conditionCode": 45
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
