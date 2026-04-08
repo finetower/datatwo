@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-08T16:34:07Z",
+  "updatedAt": "2026-04-08T16:54:07Z",
   "city": "Harbin",
   "country": "CN",
   "lat": 45.8038,
   "lng": 126.5349,
-  "temp": 8.3,
-  "feelsLike": 3.7,
-  "humidity": 35,
-  "windSpeed": 3.2,
+  "temp": 8.0,
+  "feelsLike": 3.4,
+  "humidity": 34,
+  "windSpeed": 2.9,
   "condition": "Cloudy",
   "conditionCode": 3
 }
