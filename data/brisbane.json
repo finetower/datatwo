@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-08T16:14:07Z",
+  "updatedAt": "2026-04-08T16:24:07Z",
   "city": "Brisbane",
   "country": "AU",
   "lat": -27.4698,
   "lng": 153.0251,
-  "temp": 21.3,
-  "feelsLike": 25.2,
+  "temp": 21.2,
+  "feelsLike": 25.1,
   "humidity": 97,
-  "windSpeed": 0.6,
+  "windSpeed": 0.7,
   "condition": "Partly Cloudy",
   "conditionCode": 2
 }
