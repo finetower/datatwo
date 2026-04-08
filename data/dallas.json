@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-08T11:04:07Z",
+  "updatedAt": "2026-04-08T11:24:07Z",
   "city": "Dallas",
   "country": "US",
   "lat": 32.7767,
   "lng": -96.797,
-  "temp": 14.6,
-  "feelsLike": 13.0,
-  "humidity": 67,
-  "windSpeed": 2.3,
+  "temp": 14.5,
+  "feelsLike": 12.7,
+  "humidity": 68,
+  "windSpeed": 2.6,
   "condition": "Cloudy",
   "conditionCode": 3
 }
