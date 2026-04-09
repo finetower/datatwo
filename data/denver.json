@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-09T01:04:07Z",
+  "updatedAt": "2026-04-09T01:24:07Z",
   "city": "Denver",
   "country": "US",
   "lat": 39.7392,
   "lng": -104.9903,
-  "temp": 17.6,
-  "feelsLike": 13.3,
+  "temp": 16.7,
+  "feelsLike": 12.5,
   "humidity": 24,
-  "windSpeed": 3.3,
+  "windSpeed": 2.9,
   "condition": "Cloudy",
   "conditionCode": 3
 }
