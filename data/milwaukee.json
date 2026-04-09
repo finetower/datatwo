@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-09T04:24:07Z",
+  "updatedAt": "2026-04-09T04:34:07Z",
   "city": "Milwaukee",
   "country": "US",
   "lat": 43.0389,
   "lng": -87.9065,
-  "temp": 16.6,
-  "feelsLike": 12.3,
-  "humidity": 46,
-  "windSpeed": 5.8,
+  "temp": 16.0,
+  "feelsLike": 11.3,
+  "humidity": 49,
+  "windSpeed": 6.7,
   "condition": "Cloudy",
   "conditionCode": 3
 }
