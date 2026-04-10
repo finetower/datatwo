@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-09T07:34:06Z",
+  "updatedAt": "2026-04-10T00:04:06Z",
   "city": "Kobe",
   "country": "JP",
   "lat": 34.6901,
   "lng": 135.1956,
-  "temp": 15.8,
-  "feelsLike": 16.0,
-  "humidity": 79,
-  "windSpeed": 0.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 16.9,
+  "feelsLike": 18.0,
+  "humidity": 98,
+  "windSpeed": 2.5,
+  "condition": "Rain",
+  "conditionCode": 63
 }

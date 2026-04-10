@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-09T07:34:06Z",
+  "updatedAt": "2026-04-10T00:04:07Z",
   "city": "Philadelphia",
   "country": "US",
   "lat": 39.9526,
   "lng": -75.1652,
-  "temp": 0.8,
-  "feelsLike": -2.4,
-  "humidity": 86,
-  "windSpeed": 1.7,
+  "temp": 11.2,
+  "feelsLike": 7.2,
+  "humidity": 52,
+  "windSpeed": 4.0,
   "condition": "Clear",
   "conditionCode": 0
 }
