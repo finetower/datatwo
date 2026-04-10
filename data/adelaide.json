@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-10T02:54:07Z",
+  "updatedAt": "2026-04-10T03:04:06Z",
   "city": "Adelaide",
   "country": "AU",
   "lat": -34.9285,
   "lng": 138.6007,
-  "temp": 18.2,
-  "feelsLike": 14.6,
+  "temp": 18.3,
+  "feelsLike": 14.8,
   "humidity": 57,
-  "windSpeed": 6.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 6.5,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
