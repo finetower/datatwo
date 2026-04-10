@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-10T03:34:07Z",
+  "updatedAt": "2026-04-10T03:54:07Z",
   "city": "Goheung",
   "country": "KR",
   "lat": 34.6139,
   "lng": 127.276,
-  "temp": 16.6,
-  "feelsLike": 15.7,
-  "humidity": 76,
-  "windSpeed": 5.9,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 16.8,
+  "feelsLike": 15.9,
+  "humidity": 75,
+  "windSpeed": 6.0,
+  "condition": "Clear",
+  "conditionCode": 0
 }
