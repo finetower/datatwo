@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-10T04:24:07Z",
+  "updatedAt": "2026-04-10T04:34:07Z",
   "city": "Oita",
   "country": "JP",
   "lat": 33.2382,
   "lng": 131.6126,
-  "temp": 23.9,
-  "feelsLike": 25.5,
-  "humidity": 69,
-  "windSpeed": 2.3,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 24.1,
+  "feelsLike": 25.9,
+  "humidity": 68,
+  "windSpeed": 2.0,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
