@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-10T00:24:06Z",
+  "updatedAt": "2026-04-10T00:34:06Z",
   "city": "Hakodate",
   "country": "JP",
   "lat": 41.7687,
   "lng": 140.7291,
   "temp": 9.3,
-  "feelsLike": 7.1,
+  "feelsLike": 6.7,
   "humidity": 86,
-  "windSpeed": 2.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 3.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
