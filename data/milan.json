@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-10T01:24:07Z",
+  "updatedAt": "2026-04-10T01:34:07Z",
   "city": "Milan",
   "country": "IT",
   "lat": 45.4654,
   "lng": 9.1859,
-  "temp": 11.9,
-  "feelsLike": 10.1,
-  "humidity": 76,
-  "windSpeed": 2.4,
+  "temp": 11.8,
+  "feelsLike": 10.3,
+  "humidity": 78,
+  "windSpeed": 2.0,
   "condition": "Cloudy",
   "conditionCode": 3
 }
