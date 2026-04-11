@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-11T03:24:07Z",
+  "updatedAt": "2026-04-11T03:34:08Z",
   "city": "Gunpo",
   "country": "KR",
   "lat": 37.3612,
   "lng": 126.935,
-  "temp": 9.5,
-  "feelsLike": 7.3,
-  "humidity": 97,
-  "windSpeed": 3.7,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 10.2,
+  "feelsLike": 8.0,
+  "humidity": 94,
+  "windSpeed": 3.9,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
