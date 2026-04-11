@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-10T05:04:08Z",
+  "updatedAt": "2026-04-11T00:04:07Z",
   "city": "Kyoto",
   "country": "JP",
   "lat": 35.0116,
   "lng": 135.7681,
-  "temp": 21.2,
-  "feelsLike": 23.6,
-  "humidity": 92,
-  "windSpeed": 2.5,
-  "condition": "Rain",
-  "conditionCode": 63
+  "temp": 18.1,
+  "feelsLike": 17.6,
+  "humidity": 63,
+  "windSpeed": 1.8,
+  "condition": "Clear",
+  "conditionCode": 0
 }
