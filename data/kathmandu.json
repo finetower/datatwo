@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-11T04:04:07Z",
+  "updatedAt": "2026-04-11T04:14:07Z",
   "city": "Kathmandu",
   "country": "NP",
   "lat": 27.7172,
   "lng": 85.324,
-  "temp": 21.3,
-  "feelsLike": 23.0,
+  "temp": 21.1,
+  "feelsLike": 22.5,
   "humidity": 52,
-  "windSpeed": 0.3,
-  "condition": "Clear",
-  "conditionCode": 0
+  "windSpeed": 0.6,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
