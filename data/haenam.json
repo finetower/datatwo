@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-11T01:24:07Z",
+  "updatedAt": "2026-04-11T01:34:07Z",
   "city": "Haenam",
   "country": "KR",
   "lat": 34.5734,
   "lng": 126.599,
-  "temp": 13.0,
-  "feelsLike": 12.3,
-  "humidity": 84,
+  "temp": 13.5,
+  "feelsLike": 13.1,
+  "humidity": 83,
   "windSpeed": 3.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
