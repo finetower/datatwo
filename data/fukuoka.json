@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-12T01:04:07Z",
+  "updatedAt": "2026-04-12T01:14:07Z",
   "city": "Fukuoka",
   "country": "JP",
   "lat": 33.5904,
   "lng": 130.4017,
-  "temp": 16.9,
-  "feelsLike": 18.5,
-  "humidity": 76,
-  "windSpeed": 0.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 16.8,
+  "feelsLike": 18.2,
+  "humidity": 74,
+  "windSpeed": 0.3,
+  "condition": "Clear",
+  "conditionCode": 0
 }
