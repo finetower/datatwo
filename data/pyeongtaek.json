@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-11T05:04:07Z",
+  "updatedAt": "2026-04-12T00:04:07Z",
   "city": "Pyeongtaek",
   "country": "KR",
   "lat": 36.9921,
   "lng": 127.1128,
-  "temp": 14.2,
-  "feelsLike": 13.4,
+  "temp": 9.5,
+  "feelsLike": 7.4,
   "humidity": 78,
-  "windSpeed": 4.5,
-  "condition": "Clear",
-  "conditionCode": 0
+  "windSpeed": 2.0,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
