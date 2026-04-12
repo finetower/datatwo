@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-12T03:54:07Z",
+  "updatedAt": "2026-04-12T04:04:07Z",
   "city": "Karachi",
   "country": "PK",
   "lat": 24.8607,
   "lng": 67.0011,
-  "temp": 27.5,
-  "feelsLike": 30.4,
-  "humidity": 61,
+  "temp": 27.9,
+  "feelsLike": 30.8,
+  "humidity": 59,
   "windSpeed": 1.1,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
