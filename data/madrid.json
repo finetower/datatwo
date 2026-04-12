@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T04:54:07Z",
+  "updatedAt": "2026-04-12T05:04:07Z",
   "city": "Madrid",
   "country": "ES",
   "lat": 40.4168,
@@ -8,6 +8,6 @@
   "feelsLike": 10.0,
   "humidity": 79,
   "windSpeed": 2.0,
-  "condition": "Shower",
-  "conditionCode": 80
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
