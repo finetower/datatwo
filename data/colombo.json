@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-12T05:04:07Z",
+  "updatedAt": "2026-04-13T00:04:07Z",
   "city": "Colombo",
   "country": "LK",
   "lat": 6.9271,
   "lng": 79.8612,
-  "temp": 28.3,
-  "feelsLike": 34.8,
-  "humidity": 82,
-  "windSpeed": 3.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 28.1,
+  "feelsLike": 33.9,
+  "humidity": 83,
+  "windSpeed": 1.6,
+  "condition": "Shower",
+  "conditionCode": 80
 }

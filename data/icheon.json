@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-12T05:04:07Z",
+  "updatedAt": "2026-04-13T00:04:07Z",
   "city": "Icheon",
   "country": "KR",
   "lat": 37.2721,
   "lng": 127.443,
-  "temp": 21.1,
-  "feelsLike": 21.4,
-  "humidity": 43,
-  "windSpeed": 1.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 11.7,
+  "feelsLike": 9.9,
+  "humidity": 56,
+  "windSpeed": 0.5,
+  "condition": "Clear",
+  "conditionCode": 0
 }
