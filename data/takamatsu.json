@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-13T00:54:07Z",
+  "updatedAt": "2026-04-13T01:04:07Z",
   "city": "Takamatsu",
   "country": "JP",
   "lat": 34.3401,
   "lng": 134.0434,
-  "temp": 15.4,
-  "feelsLike": 15.7,
-  "humidity": 76,
-  "windSpeed": 0.1,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 16.3,
+  "feelsLike": 15.9,
+  "humidity": 69,
+  "windSpeed": 1.0,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
