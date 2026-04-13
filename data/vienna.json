@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-13T01:04:07Z",
+  "updatedAt": "2026-04-13T01:24:07Z",
   "city": "Vienna",
   "country": "AT",
   "lat": 48.2082,
   "lng": 16.3738,
-  "temp": 10.7,
-  "feelsLike": 6.4,
+  "temp": 10.6,
+  "feelsLike": 6.3,
   "humidity": 49,
-  "windSpeed": 4.2,
+  "windSpeed": 4.1,
   "condition": "Cloudy",
   "conditionCode": 3
 }
