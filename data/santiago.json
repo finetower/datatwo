@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-13T00:04:07Z",
+  "updatedAt": "2026-04-13T00:24:07Z",
   "city": "Santiago",
   "country": "CL",
   "lat": -33.4489,
   "lng": -70.6693,
-  "temp": 16.9,
-  "feelsLike": 16.4,
-  "humidity": 69,
-  "windSpeed": 1.6,
+  "temp": 16.6,
+  "feelsLike": 16.2,
+  "humidity": 71,
+  "windSpeed": 1.4,
   "condition": "Cloudy",
   "conditionCode": 3
 }
