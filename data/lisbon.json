@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T01:54:07Z",
+  "updatedAt": "2026-04-14T02:04:07Z",
   "city": "Lisbon",
   "country": "PT",
   "lat": 38.7169,
@@ -7,7 +7,7 @@
   "temp": 13.2,
   "feelsLike": 13.2,
   "humidity": 91,
-  "windSpeed": 1.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 1.1,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
