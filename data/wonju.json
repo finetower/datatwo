@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T03:34:07Z",
+  "updatedAt": "2026-04-14T03:54:07Z",
   "city": "Wonju",
   "country": "KR",
   "lat": 37.3422,
   "lng": 127.9202,
-  "temp": 23.0,
-  "feelsLike": 23.9,
+  "temp": 23.3,
+  "feelsLike": 24.1,
   "humidity": 39,
-  "windSpeed": 0.8,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 0.9,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
