@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T02:54:07Z",
+  "updatedAt": "2026-04-14T03:04:07Z",
   "city": "Sagamihara",
   "country": "JP",
   "lat": 35.5714,
   "lng": 139.373,
-  "temp": 16.3,
-  "feelsLike": 17.1,
-  "humidity": 90,
-  "windSpeed": 1.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 16.7,
+  "feelsLike": 17.8,
+  "humidity": 88,
+  "windSpeed": 1.5,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
