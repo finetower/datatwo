@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T04:04:07Z",
+  "updatedAt": "2026-04-14T04:24:07Z",
   "city": "Miyazaki",
   "country": "JP",
   "lat": 31.9111,
   "lng": 131.4239,
-  "temp": 18.9,
-  "feelsLike": 21.4,
+  "temp": 19.0,
+  "feelsLike": 21.6,
   "humidity": 95,
-  "windSpeed": 0.8,
+  "windSpeed": 0.7,
   "condition": "Rain",
   "conditionCode": 55
 }
