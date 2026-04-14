@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T01:24:07Z",
+  "updatedAt": "2026-04-14T01:34:07Z",
   "city": "Rome",
   "country": "IT",
   "lat": 41.9028,
   "lng": 12.4964,
   "temp": 15.5,
-  "feelsLike": 15.1,
-  "humidity": 80,
-  "windSpeed": 2.1,
+  "feelsLike": 15.2,
+  "humidity": 81,
+  "windSpeed": 2.0,
   "condition": "Cloudy",
   "conditionCode": 3
 }
