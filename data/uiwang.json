@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T03:04:07Z",
+  "updatedAt": "2026-04-14T03:24:07Z",
   "city": "Uiwang",
   "country": "KR",
   "lat": 37.3443,
   "lng": 126.968,
-  "temp": 20.7,
-  "feelsLike": 20.4,
-  "humidity": 46,
-  "windSpeed": 2.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 20.9,
+  "feelsLike": 20.5,
+  "humidity": 45,
+  "windSpeed": 2.1,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
