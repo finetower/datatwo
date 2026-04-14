@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T05:04:07Z",
+  "updatedAt": "2026-04-14T15:34:06Z",
   "city": "Nagasaki",
   "country": "JP",
   "lat": 32.7503,
   "lng": 129.8779,
-  "temp": 18.0,
-  "feelsLike": 20.3,
-  "humidity": 95,
-  "windSpeed": 0.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 17.3,
+  "feelsLike": 19.2,
+  "humidity": 97,
+  "windSpeed": 1.1,
+  "condition": "Rain",
+  "conditionCode": 51
 }

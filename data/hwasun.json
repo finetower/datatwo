@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T05:04:07Z",
+  "updatedAt": "2026-04-14T15:34:06Z",
   "city": "Hwasun",
   "country": "KR",
   "lat": 35.0647,
   "lng": 126.999,
-  "temp": 18.9,
-  "feelsLike": 18.9,
-  "humidity": 61,
-  "windSpeed": 0.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 11.7,
+  "feelsLike": 10.2,
+  "humidity": 75,
+  "windSpeed": 1.7,
+  "condition": "Clear",
+  "conditionCode": 0
 }
