@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T04:54:07Z",
+  "updatedAt": "2026-04-14T05:04:07Z",
   "city": "Melbourne",
   "country": "AU",
   "lat": -37.8136,
@@ -8,6 +8,6 @@
   "feelsLike": 17.4,
   "humidity": 55,
   "windSpeed": 3.8,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
