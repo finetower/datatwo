@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-15T03:54:08Z",
+  "updatedAt": "2026-04-15T04:04:08Z",
   "city": "Naha",
   "country": "JP",
   "lat": 26.2124,
   "lng": 127.6809,
-  "temp": 24.9,
-  "feelsLike": 28.8,
-  "humidity": 87,
-  "windSpeed": 3.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 25.0,
+  "feelsLike": 28.7,
+  "humidity": 86,
+  "windSpeed": 4.0,
+  "condition": "Shower",
+  "conditionCode": 80
 }
