@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-15T01:24:08Z",
+  "updatedAt": "2026-04-15T01:34:08Z",
   "city": "Seoul",
   "country": "KR",
   "lat": 37.5665,
   "lng": 126.978,
-  "temp": 15.7,
-  "feelsLike": 15.2,
+  "temp": 16.2,
+  "feelsLike": 16.1,
   "humidity": 48,
-  "windSpeed": 0.3,
+  "windSpeed": 0.1,
   "condition": "Clear",
   "conditionCode": 0
 }
