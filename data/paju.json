@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-14T15:34:06Z",
+  "updatedAt": "2026-04-15T00:04:07Z",
   "city": "Paju",
   "country": "KR",
   "lat": 37.76,
   "lng": 126.78,
-  "temp": 10.1,
-  "feelsLike": 8.9,
-  "humidity": 87,
-  "windSpeed": 1.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 13.2,
+  "feelsLike": 12.0,
+  "humidity": 61,
+  "windSpeed": 0.4,
+  "condition": "Clear",
+  "conditionCode": 0
 }
