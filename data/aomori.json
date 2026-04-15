@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-15T04:34:08Z",
+  "updatedAt": "2026-04-15T04:54:08Z",
   "city": "Aomori",
   "country": "JP",
   "lat": 40.8244,
   "lng": 140.74,
   "temp": 15.3,
-  "feelsLike": 13.4,
-  "humidity": 57,
-  "windSpeed": 3.9,
-  "condition": "Clear",
-  "conditionCode": 0
+  "feelsLike": 13.2,
+  "humidity": 56,
+  "windSpeed": 4.0,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
