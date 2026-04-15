@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-15T04:54:08Z",
+  "updatedAt": "2026-04-15T05:04:08Z",
   "city": "Los Angeles",
   "country": "US",
   "lat": 34.0522,
   "lng": -118.2437,
-  "temp": 14.7,
-  "feelsLike": 14.4,
+  "temp": 14.5,
+  "feelsLike": 14.1,
   "humidity": 74,
-  "windSpeed": 0.6,
+  "windSpeed": 0.8,
   "condition": "Clear",
   "conditionCode": 0
 }
