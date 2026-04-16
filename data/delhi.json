@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-16T03:54:07Z",
+  "updatedAt": "2026-04-16T04:04:07Z",
   "city": "Delhi",
   "country": "IN",
   "lat": 28.7041,
   "lng": 77.1025,
-  "temp": 29.1,
-  "feelsLike": 31.2,
-  "humidity": 43,
+  "temp": 29.7,
+  "feelsLike": 32.4,
+  "humidity": 42,
   "windSpeed": 0.1,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
