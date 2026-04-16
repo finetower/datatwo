@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-16T01:24:07Z",
+  "updatedAt": "2026-04-16T01:34:07Z",
   "city": "Stockholm",
   "country": "SE",
   "lat": 59.3293,
   "lng": 18.0686,
-  "temp": 5.0,
-  "feelsLike": 1.8,
+  "temp": 4.8,
+  "feelsLike": 1.6,
   "humidity": 77,
-  "windSpeed": 2.4,
+  "windSpeed": 2.5,
   "condition": "Mostly Clear",
   "conditionCode": 1
 }
