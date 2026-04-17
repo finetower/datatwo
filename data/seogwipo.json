@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-16T05:04:07Z",
+  "updatedAt": "2026-04-17T00:04:07Z",
   "city": "Seogwipo",
   "country": "KR",
   "lat": 33.2541,
   "lng": 126.56,
-  "temp": 18.7,
-  "feelsLike": 16.6,
-  "humidity": 59,
-  "windSpeed": 7.2,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 16.2,
+  "feelsLike": 16.0,
+  "humidity": 96,
+  "windSpeed": 4.1,
+  "condition": "Rain",
+  "conditionCode": 63
 }
