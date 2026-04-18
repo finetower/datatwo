@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T10:54:57Z",
+  "updatedAt": "2026-04-18T11:04:08Z",
   "city": "Anchorage",
   "country": "US",
   "lat": 61.2181,
@@ -8,6 +8,6 @@
   "feelsLike": -1.7,
   "humidity": 98,
   "windSpeed": 0.8,
-  "condition": "Rain",
-  "conditionCode": 61
+  "condition": "Snow",
+  "conditionCode": 71
 }
