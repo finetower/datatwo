@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-18T12:24:09Z",
+  "updatedAt": "2026-04-18T12:34:08Z",
   "city": "Lima",
   "country": "PE",
   "lat": -12.0464,
   "lng": -77.0428,
   "temp": 21.3,
-  "feelsLike": 24.2,
-  "humidity": 92,
-  "windSpeed": 1.8,
+  "feelsLike": 24.0,
+  "humidity": 91,
+  "windSpeed": 1.9,
   "condition": "Cloudy",
   "conditionCode": 3
 }
