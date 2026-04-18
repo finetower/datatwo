@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-18T10:34:07Z",
+  "updatedAt": "2026-04-18T10:54:56Z",
   "city": "Uijeongbu",
   "country": "KR",
   "lat": 37.7382,
   "lng": 127.0471,
-  "temp": 17.2,
-  "feelsLike": 17.1,
-  "humidity": 78,
-  "windSpeed": 2.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 16.6,
+  "feelsLike": 16.5,
+  "humidity": 80,
+  "windSpeed": 2.0,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
