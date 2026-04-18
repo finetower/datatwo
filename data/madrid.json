@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-18T11:04:08Z",
+  "updatedAt": "2026-04-18T11:24:08Z",
   "city": "Madrid",
   "country": "ES",
   "lat": 40.4168,
   "lng": -3.7038,
-  "temp": 23.3,
-  "feelsLike": 23.8,
-  "humidity": 37,
+  "temp": 23.8,
+  "feelsLike": 24.4,
+  "humidity": 36,
   "windSpeed": 1.1,
   "condition": "Mostly Clear",
   "conditionCode": 1
