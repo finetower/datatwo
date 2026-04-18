@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-18T03:04:07Z",
+  "updatedAt": "2026-04-18T03:14:06Z",
   "city": "Warsaw",
   "country": "PL",
   "lat": 52.2297,
   "lng": 21.0122,
-  "temp": 6.0,
-  "feelsLike": 3.1,
+  "temp": 5.9,
+  "feelsLike": 3.0,
   "humidity": 86,
-  "windSpeed": 2.8,
+  "windSpeed": 2.6,
   "condition": "Clear",
   "conditionCode": 0
 }
