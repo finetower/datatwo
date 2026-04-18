@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T00:04:08Z",
+  "updatedAt": "2026-04-18T00:24:08Z",
   "city": "Sacramento",
   "country": "US",
   "lat": 38.5816,
@@ -8,6 +8,6 @@
   "feelsLike": 19.4,
   "humidity": 15,
   "windSpeed": 1.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
