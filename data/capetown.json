@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T12:54:08Z",
+  "updatedAt": "2026-04-18T13:04:08Z",
   "city": "Cape Town",
   "country": "ZA",
   "lat": -33.9249,
@@ -8,6 +8,6 @@
   "feelsLike": 11.4,
   "humidity": 81,
   "windSpeed": 9.0,
-  "condition": "Shower",
-  "conditionCode": 80
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

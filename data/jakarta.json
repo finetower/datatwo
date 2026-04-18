@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-18T12:54:08Z",
+  "updatedAt": "2026-04-18T13:04:08Z",
   "city": "Jakarta",
   "country": "ID",
   "lat": -6.2088,
   "lng": 106.8456,
-  "temp": 27.8,
-  "feelsLike": 33.9,
-  "humidity": 82,
-  "windSpeed": 0.6,
-  "condition": "Shower",
-  "conditionCode": 80
+  "temp": 27.7,
+  "feelsLike": 34.0,
+  "humidity": 83,
+  "windSpeed": 0.5,
+  "condition": "Thunderstorm",
+  "conditionCode": 95
 }
