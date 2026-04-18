@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-17T05:04:07Z",
+  "updatedAt": "2026-04-18T00:04:08Z",
   "city": "Yilan",
   "country": "TW",
   "lat": 24.7021,
   "lng": 121.7378,
-  "temp": 25.0,
-  "feelsLike": 28.7,
-  "humidity": 85,
-  "windSpeed": 3.0,
-  "condition": "Shower",
-  "conditionCode": 80
+  "temp": 21.7,
+  "feelsLike": 25.0,
+  "humidity": 92,
+  "windSpeed": 1.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
