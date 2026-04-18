@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-18T05:04:07Z",
+  "updatedAt": "2026-04-18T09:24:08Z",
   "city": "Prague",
   "country": "CZ",
   "lat": 50.0755,
   "lng": 14.4378,
-  "temp": 8.3,
-  "feelsLike": 6.8,
-  "humidity": 70,
-  "windSpeed": 0.0,
-  "condition": "Rain",
-  "conditionCode": 61
+  "temp": 15.6,
+  "feelsLike": 14.5,
+  "humidity": 39,
+  "windSpeed": 0.4,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
