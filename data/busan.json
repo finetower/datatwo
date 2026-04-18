@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-18T11:34:12Z",
+  "updatedAt": "2026-04-18T11:54:07Z",
   "city": "Busan",
   "country": "KR",
   "lat": 35.1796,
   "lng": 129.0756,
-  "temp": 16.1,
-  "feelsLike": 17.2,
+  "temp": 15.9,
+  "feelsLike": 16.9,
   "humidity": 92,
   "windSpeed": 1.1,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
