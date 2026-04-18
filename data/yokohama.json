@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T04:04:07Z",
+  "updatedAt": "2026-04-18T04:24:07Z",
   "city": "Yokohama",
   "country": "JP",
   "lat": 35.4437,
@@ -8,6 +8,6 @@
   "feelsLike": 23.5,
   "humidity": 61,
   "windSpeed": 1.8,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
