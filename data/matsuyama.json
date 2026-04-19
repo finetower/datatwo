@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-19T04:24:07Z",
+  "updatedAt": "2026-04-19T04:34:07Z",
   "city": "Matsuyama",
   "country": "JP",
   "lat": 33.8395,
   "lng": 132.7658,
   "temp": 18.9,
-  "feelsLike": 20.9,
-  "humidity": 87,
-  "windSpeed": 0.5,
+  "feelsLike": 21.0,
+  "humidity": 85,
+  "windSpeed": 0.1,
   "condition": "Rain",
   "conditionCode": 53
 }
