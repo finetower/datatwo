@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-19T01:04:07Z",
+  "updatedAt": "2026-04-19T01:24:07Z",
   "city": "Ho Chi Minh City",
   "country": "VN",
   "lat": 10.8231,
   "lng": 106.6297,
-  "temp": 27.8,
-  "feelsLike": 33.1,
-  "humidity": 81,
-  "windSpeed": 1.9,
+  "temp": 28.1,
+  "feelsLike": 33.2,
+  "humidity": 79,
+  "windSpeed": 2.0,
   "condition": "Shower",
   "conditionCode": 80
 }
