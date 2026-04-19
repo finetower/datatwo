@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T04:54:07Z",
+  "updatedAt": "2026-04-19T05:04:07Z",
   "city": "Kunming",
   "country": "CN",
   "lat": 25.0453,
@@ -7,7 +7,7 @@
   "temp": 23.5,
   "feelsLike": 20.6,
   "humidity": 35,
-  "windSpeed": 5.7,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 5.8,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
