@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-20T04:24:07Z",
+  "updatedAt": "2026-04-20T04:34:08Z",
   "city": "Gwangyang",
   "country": "KR",
   "lat": 34.9407,
   "lng": 127.6956,
-  "temp": 19.4,
-  "feelsLike": 19.4,
-  "humidity": 79,
-  "windSpeed": 3.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 19.6,
+  "feelsLike": 19.7,
+  "humidity": 77,
+  "windSpeed": 3.2,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
