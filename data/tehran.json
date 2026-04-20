@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-20T04:54:08Z",
+  "updatedAt": "2026-04-20T05:04:08Z",
   "city": "Tehran",
   "country": "IR",
   "lat": 35.6892,
   "lng": 51.389,
-  "temp": 19.3,
-  "feelsLike": 18.4,
-  "humidity": 46,
+  "temp": 19.8,
+  "feelsLike": 18.8,
+  "humidity": 43,
   "windSpeed": 0.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
