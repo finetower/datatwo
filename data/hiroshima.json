@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-21T01:34:07Z",
+  "updatedAt": "2026-04-21T01:54:07Z",
   "city": "Hiroshima",
   "country": "JP",
   "lat": 34.3853,
   "lng": 132.4553,
-  "temp": 20.1,
-  "feelsLike": 18.3,
-  "humidity": 27,
-  "windSpeed": 2.3,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 20.6,
+  "feelsLike": 19.0,
+  "humidity": 26,
+  "windSpeed": 2.1,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
