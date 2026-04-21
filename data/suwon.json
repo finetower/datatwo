@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-20T05:04:07Z",
+  "updatedAt": "2026-04-21T00:04:07Z",
   "city": "Suwon",
   "country": "KR",
   "lat": 37.2636,
   "lng": 127.0286,
-  "temp": 10.9,
-  "feelsLike": 8.9,
-  "humidity": 99,
-  "windSpeed": 4.3,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 8.8,
+  "feelsLike": 6.6,
+  "humidity": 79,
+  "windSpeed": 2.0,
+  "condition": "Clear",
+  "conditionCode": 0
 }
