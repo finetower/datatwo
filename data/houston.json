@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-21T01:04:07Z",
+  "updatedAt": "2026-04-21T01:24:07Z",
   "city": "Houston",
   "country": "US",
   "lat": 29.7604,
   "lng": -95.3698,
-  "temp": 16.6,
-  "feelsLike": 17.1,
-  "humidity": 83,
-  "windSpeed": 1.4,
-  "condition": "Rain",
-  "conditionCode": 51
+  "temp": 17.0,
+  "feelsLike": 17.9,
+  "humidity": 84,
+  "windSpeed": 1.0,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
