@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-21T02:54:07Z",
+  "updatedAt": "2026-04-21T03:04:07Z",
   "city": "Johannesburg",
   "country": "ZA",
   "lat": -26.2041,
   "lng": 28.0473,
   "temp": 14.8,
-  "feelsLike": 15.3,
+  "feelsLike": 15.2,
   "humidity": 88,
-  "windSpeed": 0.8,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 0.9,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
