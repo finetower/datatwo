@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T01:54:07Z",
+  "updatedAt": "2026-04-22T02:04:08Z",
   "city": "Mumbai",
   "country": "IN",
   "lat": 19.076,
@@ -8,6 +8,6 @@
   "feelsLike": 35.0,
   "humidity": 77,
   "windSpeed": 1.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
