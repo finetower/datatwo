@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-22T04:34:07Z",
+  "updatedAt": "2026-04-22T04:54:07Z",
   "city": "Cheonan",
   "country": "KR",
   "lat": 36.8151,
   "lng": 127.1139,
-  "temp": 15.2,
-  "feelsLike": 13.8,
-  "humidity": 52,
-  "windSpeed": 0.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 15.5,
+  "feelsLike": 14.2,
+  "humidity": 50,
+  "windSpeed": 0.3,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
