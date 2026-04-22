@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-22T02:04:08Z",
+  "updatedAt": "2026-04-22T02:24:08Z",
   "city": "Pocheon",
   "country": "KR",
   "lat": 37.8949,
   "lng": 127.2,
-  "temp": 12.5,
-  "feelsLike": 9.7,
-  "humidity": 57,
-  "windSpeed": 2.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 13.0,
+  "feelsLike": 10.2,
+  "humidity": 56,
+  "windSpeed": 2.8,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
