@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T04:34:07Z",
+  "updatedAt": "2026-04-22T04:44:07Z",
   "city": "Kolkata",
   "country": "IN",
   "lat": 22.5726,
@@ -8,6 +8,6 @@
   "feelsLike": 42.5,
   "humidity": 75,
   "windSpeed": 2.0,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
