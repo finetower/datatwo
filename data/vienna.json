@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T04:34:07Z",
+  "updatedAt": "2026-04-23T05:04:07Z",
   "city": "Vienna",
   "country": "AT",
   "lat": 48.2082,
@@ -8,6 +8,6 @@
   "feelsLike": 3.5,
   "humidity": 51,
   "windSpeed": 4.1,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
