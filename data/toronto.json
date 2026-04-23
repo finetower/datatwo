@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-23T04:04:07Z",
+  "updatedAt": "2026-04-23T04:24:07Z",
   "city": "Toronto",
   "country": "CA",
   "lat": 43.6532,
   "lng": -79.3832,
-  "temp": 8.7,
-  "feelsLike": 5.3,
+  "temp": 8.6,
+  "feelsLike": 5.0,
   "humidity": 52,
-  "windSpeed": 2.2,
+  "windSpeed": 2.6,
   "condition": "Clear",
   "conditionCode": 0
 }
