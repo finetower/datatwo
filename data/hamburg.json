@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-23T04:24:07Z",
+  "updatedAt": "2026-04-23T04:34:07Z",
   "city": "Hamburg",
   "country": "DE",
   "lat": 53.5753,
   "lng": 10.0153,
-  "temp": 6.2,
-  "feelsLike": 3.0,
-  "humidity": 93,
-  "windSpeed": 3.9,
+  "temp": 6.1,
+  "feelsLike": 2.7,
+  "humidity": 92,
+  "windSpeed": 4.0,
   "condition": "Cloudy",
   "conditionCode": 3
 }
