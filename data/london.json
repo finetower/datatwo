@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T02:34:07Z",
+  "updatedAt": "2026-04-23T02:54:07Z",
   "city": "London",
   "country": "GB",
   "lat": 51.5074,
@@ -7,7 +7,7 @@
   "temp": 9.0,
   "feelsLike": 6.6,
   "humidity": 84,
-  "windSpeed": 2.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 2.9,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
