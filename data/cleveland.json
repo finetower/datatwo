@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-22T05:04:07Z",
+  "updatedAt": "2026-04-23T00:04:07Z",
   "city": "Cleveland",
   "country": "US",
   "lat": 41.4993,
   "lng": -81.6944,
-  "temp": 15.0,
-  "feelsLike": 12.7,
-  "humidity": 56,
-  "windSpeed": 2.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 16.3,
+  "feelsLike": 15.1,
+  "humidity": 65,
+  "windSpeed": 2.3,
+  "condition": "Clear",
+  "conditionCode": 0
 }
