@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-23T01:24:06Z",
+  "updatedAt": "2026-04-23T01:34:06Z",
   "city": "Albuquerque",
   "country": "US",
   "lat": 35.0844,
   "lng": -106.6504,
-  "temp": 24.5,
-  "feelsLike": 18.0,
-  "humidity": 5,
-  "windSpeed": 5.3,
+  "temp": 23.8,
+  "feelsLike": 17.8,
+  "humidity": 6,
+  "windSpeed": 4.5,
   "condition": "Cloudy",
   "conditionCode": 3
 }
