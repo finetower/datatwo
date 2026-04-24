@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-24T00:34:07Z",
+  "updatedAt": "2026-04-24T00:54:07Z",
   "city": "London",
   "country": "GB",
   "lat": 51.5074,
   "lng": -0.1278,
-  "temp": 8.2,
+  "temp": 8.1,
   "feelsLike": 5.0,
-  "humidity": 79,
-  "windSpeed": 3.6,
+  "humidity": 80,
+  "windSpeed": 3.5,
   "condition": "Clear",
   "conditionCode": 0
 }
