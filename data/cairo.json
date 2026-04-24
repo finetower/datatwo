@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T13:54:07Z",
+  "updatedAt": "2026-04-24T14:04:07Z",
   "city": "Cairo",
   "country": "EG",
   "lat": 30.0444,
@@ -8,6 +8,6 @@
   "feelsLike": 26.0,
   "humidity": 17,
   "windSpeed": 3.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

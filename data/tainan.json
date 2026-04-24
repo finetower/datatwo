@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-24T13:54:07Z",
+  "updatedAt": "2026-04-24T14:04:07Z",
   "city": "Tainan",
   "country": "TW",
   "lat": 22.9999,
   "lng": 120.227,
   "temp": 23.5,
-  "feelsLike": 26.6,
+  "feelsLike": 26.4,
   "humidity": 86,
-  "windSpeed": 2.6,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "windSpeed": 2.7,
+  "condition": "Rain",
+  "conditionCode": 51
 }
