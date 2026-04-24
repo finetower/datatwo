@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-24T15:54:07Z",
+  "updatedAt": "2026-04-24T16:04:07Z",
   "city": "Zurich",
   "country": "CH",
   "lat": 47.3769,
   "lng": 8.5417,
   "temp": 22.0,
-  "feelsLike": 17.8,
-  "humidity": 10,
+  "feelsLike": 17.6,
+  "humidity": 8,
   "windSpeed": 1.6,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

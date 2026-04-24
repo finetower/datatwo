@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-24T15:54:07Z",
+  "updatedAt": "2026-04-24T16:04:07Z",
   "city": "Addis Ababa",
   "country": "ET",
   "lat": 9.032,
   "lng": 38.7423,
-  "temp": 14.5,
-  "feelsLike": 14.3,
+  "temp": 14.7,
+  "feelsLike": 14.5,
   "humidity": 86,
-  "windSpeed": 1.6,
-  "condition": "Rain",
-  "conditionCode": 61
+  "windSpeed": 1.7,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
