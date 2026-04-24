@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-23T05:04:07Z",
+  "updatedAt": "2026-04-24T00:04:07Z",
   "city": "Morioka",
   "country": "JP",
   "lat": 39.7036,
   "lng": 141.1527,
-  "temp": 18.5,
-  "feelsLike": 16.7,
-  "humidity": 39,
-  "windSpeed": 1.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 12.0,
+  "feelsLike": 10.3,
+  "humidity": 37,
+  "windSpeed": 0.4,
+  "condition": "Clear",
+  "conditionCode": 0
 }

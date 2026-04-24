@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-23T05:04:07Z",
+  "updatedAt": "2026-04-24T00:04:07Z",
   "city": "Utsunomiya",
   "country": "JP",
   "lat": 36.5565,
   "lng": 139.8836,
-  "temp": 17.1,
-  "feelsLike": 15.9,
-  "humidity": 49,
-  "windSpeed": 0.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 13.9,
+  "feelsLike": 11.6,
+  "humidity": 59,
+  "windSpeed": 2.5,
+  "condition": "Clear",
+  "conditionCode": 0
 }
