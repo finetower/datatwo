@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-24T17:54:07Z",
+  "updatedAt": "2026-04-24T18:04:07Z",
   "city": "Columbus",
   "country": "US",
   "lat": 39.9612,
   "lng": -82.9988,
-  "temp": 26.6,
-  "feelsLike": 25.1,
+  "temp": 27.0,
+  "feelsLike": 26.3,
   "humidity": 38,
-  "windSpeed": 5.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 5.4,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
