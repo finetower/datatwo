@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T13:24:07Z",
+  "updatedAt": "2026-04-24T13:34:07Z",
   "city": "Amsterdam",
   "country": "NL",
   "lat": 52.3676,
@@ -8,6 +8,6 @@
   "feelsLike": 14.0,
   "humidity": 44,
   "windSpeed": 3.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
