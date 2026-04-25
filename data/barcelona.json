@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T03:24:07Z",
+  "updatedAt": "2026-04-25T03:34:07Z",
   "city": "Barcelona",
   "country": "ES",
   "lat": 41.3851,
   "lng": 2.1734,
-  "temp": 12.4,
+  "temp": 12.3,
   "feelsLike": 11.5,
-  "humidity": 80,
-  "windSpeed": 1.1,
+  "humidity": 81,
+  "windSpeed": 1.2,
   "condition": "Mostly Clear",
   "conditionCode": 1
 }
