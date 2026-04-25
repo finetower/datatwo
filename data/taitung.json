@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T02:54:07Z",
+  "updatedAt": "2026-04-25T03:04:07Z",
   "city": "Taitung",
   "country": "TW",
   "lat": 22.7583,
   "lng": 121.1444,
-  "temp": 24.4,
-  "feelsLike": 26.7,
-  "humidity": 72,
+  "temp": 24.6,
+  "feelsLike": 27.3,
+  "humidity": 71,
   "windSpeed": 2.5,
-  "condition": "Rain",
-  "conditionCode": 51
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
