@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T03:54:07Z",
+  "updatedAt": "2026-04-25T04:04:08Z",
   "city": "Yeongam",
   "country": "KR",
   "lat": 34.8007,
   "lng": 126.697,
-  "temp": 23.4,
-  "feelsLike": 23.6,
+  "temp": 23.5,
+  "feelsLike": 23.7,
   "humidity": 38,
   "windSpeed": 3.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
