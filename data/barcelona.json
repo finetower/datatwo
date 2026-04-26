@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T03:54:07Z",
+  "updatedAt": "2026-04-26T04:04:07Z",
   "city": "Barcelona",
   "country": "ES",
   "lat": 41.3851,
@@ -8,6 +8,6 @@
   "feelsLike": 16.2,
   "humidity": 74,
   "windSpeed": 0.3,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
