@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-26T05:04:07Z",
+  "updatedAt": "2026-04-27T00:04:08Z",
   "city": "Kumamoto",
   "country": "JP",
   "lat": 32.8031,
   "lng": 130.7079,
-  "temp": 18.7,
-  "feelsLike": 19.8,
-  "humidity": 91,
-  "windSpeed": 2.9,
-  "condition": "Rain",
-  "conditionCode": 63
+  "temp": 17.2,
+  "feelsLike": 18.3,
+  "humidity": 86,
+  "windSpeed": 0.9,
+  "condition": "Clear",
+  "conditionCode": 0
 }
