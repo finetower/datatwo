@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-27T00:34:07Z",
+  "updatedAt": "2026-04-27T00:54:07Z",
   "city": "Paris",
   "country": "FR",
   "lat": 48.8566,
   "lng": 2.3522,
-  "temp": 13.5,
-  "feelsLike": 11.5,
+  "temp": 13.3,
+  "feelsLike": 11.2,
   "humidity": 57,
-  "windSpeed": 1.6,
+  "windSpeed": 1.5,
   "condition": "Clear",
   "conditionCode": 0
 }
