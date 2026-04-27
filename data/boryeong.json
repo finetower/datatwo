@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-27T01:34:07Z",
+  "updatedAt": "2026-04-27T01:54:08Z",
   "city": "Boryeong",
   "country": "KR",
   "lat": 36.3334,
   "lng": 126.553,
-  "temp": 15.0,
+  "temp": 14.9,
   "feelsLike": 14.3,
-  "humidity": 74,
-  "windSpeed": 2.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "humidity": 76,
+  "windSpeed": 3.0,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }

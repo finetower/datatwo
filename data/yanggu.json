@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-27T01:34:07Z",
+  "updatedAt": "2026-04-27T01:54:08Z",
   "city": "Yanggu",
   "country": "KR",
   "lat": 38.1065,
   "lng": 127.99,
-  "temp": 14.1,
-  "feelsLike": 13.0,
-  "humidity": 67,
-  "windSpeed": 1.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 14.7,
+  "feelsLike": 13.8,
+  "humidity": 65,
+  "windSpeed": 0.9,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
