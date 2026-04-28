@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-27T05:04:08Z",
+  "updatedAt": "2026-04-28T00:04:12Z",
   "city": "Wuhan",
   "country": "CN",
   "lat": 30.5928,
   "lng": 114.3052,
-  "temp": 23.1,
-  "feelsLike": 24.9,
-  "humidity": 71,
-  "windSpeed": 1.8,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 17.7,
+  "feelsLike": 18.8,
+  "humidity": 95,
+  "windSpeed": 2.5,
+  "condition": "Rain",
+  "conditionCode": 53
 }
