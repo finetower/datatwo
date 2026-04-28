@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-28T00:54:07Z",
+  "updatedAt": "2026-04-28T01:04:08Z",
   "city": "Ulsan",
   "country": "KR",
   "lat": 35.5384,
   "lng": 129.3114,
-  "temp": 18.7,
-  "feelsLike": 18.2,
+  "temp": 19.0,
+  "feelsLike": 18.7,
   "humidity": 62,
-  "windSpeed": 1.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 2.0,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
