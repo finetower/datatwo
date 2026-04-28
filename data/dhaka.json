@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-28T02:54:07Z",
+  "updatedAt": "2026-04-28T03:04:07Z",
   "city": "Dhaka",
   "country": "BD",
   "lat": 23.8103,
   "lng": 90.4125,
-  "temp": 22.9,
-  "feelsLike": 25.3,
-  "humidity": 92,
-  "windSpeed": 4.1,
-  "condition": "Shower",
-  "conditionCode": 81
+  "temp": 23.0,
+  "feelsLike": 25.2,
+  "humidity": 91,
+  "windSpeed": 4.7,
+  "condition": "Rain",
+  "conditionCode": 55
 }
