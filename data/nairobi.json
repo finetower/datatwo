@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-29T03:54:06Z",
+  "updatedAt": "2026-04-29T04:04:07Z",
   "city": "Nairobi",
   "country": "KE",
   "lat": -1.2921,
   "lng": 36.8219,
-  "temp": 15.9,
-  "feelsLike": 17.3,
+  "temp": 16.0,
+  "feelsLike": 17.5,
   "humidity": 95,
   "windSpeed": 0.6,
-  "condition": "Rain",
-  "conditionCode": 51
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
