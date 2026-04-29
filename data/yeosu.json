@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-29T00:44:07Z",
+  "updatedAt": "2026-04-29T00:54:07Z",
   "city": "Yeosu",
   "country": "KR",
   "lat": 34.7604,
   "lng": 127.6622,
-  "temp": 13.8,
-  "feelsLike": 11.7,
-  "humidity": 63,
-  "windSpeed": 2.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 14.2,
+  "feelsLike": 11.9,
+  "humidity": 62,
+  "windSpeed": 2.9,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
