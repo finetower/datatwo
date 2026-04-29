@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-29T00:04:28Z",
+  "updatedAt": "2026-04-29T00:14:07Z",
   "city": "Bogota",
   "country": "CO",
   "lat": 4.711,
   "lng": -74.0721,
   "temp": 14.0,
-  "feelsLike": 14.6,
+  "feelsLike": 14.2,
   "humidity": 90,
-  "windSpeed": 0.3,
+  "windSpeed": 1.1,
   "condition": "Rain",
-  "conditionCode": 63
+  "conditionCode": 51
 }
