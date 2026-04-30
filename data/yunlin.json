@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-29T05:04:07Z",
+  "updatedAt": "2026-04-30T00:04:07Z",
   "city": "Yunlin",
   "country": "TW",
   "lat": 23.7093,
   "lng": 120.4313,
-  "temp": 28.2,
-  "feelsLike": 31.5,
-  "humidity": 69,
-  "windSpeed": 3.1,
+  "temp": 21.8,
+  "feelsLike": 24.4,
+  "humidity": 88,
+  "windSpeed": 2.0,
   "condition": "Rain",
-  "conditionCode": 53
+  "conditionCode": 63
 }
