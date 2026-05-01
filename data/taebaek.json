@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-01T04:34:07Z",
+  "updatedAt": "2026-05-01T04:54:07Z",
   "city": "Taebaek",
   "country": "KR",
   "lat": 37.1642,
   "lng": 128.986,
-  "temp": 16.7,
-  "feelsLike": 14.7,
-  "humidity": 50,
+  "temp": 17.2,
+  "feelsLike": 15.2,
+  "humidity": 49,
   "windSpeed": 5.1,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Clear",
+  "conditionCode": 0
 }
