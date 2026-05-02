@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-01T05:04:07Z",
+  "updatedAt": "2026-05-02T00:04:18Z",
   "city": "Tottori",
   "country": "JP",
   "lat": 35.5011,
   "lng": 134.2351,
-  "temp": 15.1,
-  "feelsLike": 12.6,
-  "humidity": 78,
-  "windSpeed": 5.5,
-  "condition": "Rain",
-  "conditionCode": 51
+  "temp": 19.0,
+  "feelsLike": 19.0,
+  "humidity": 55,
+  "windSpeed": 1.1,
+  "condition": "Clear",
+  "conditionCode": 0
 }
