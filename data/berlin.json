@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T04:34:07Z",
+  "updatedAt": "2026-05-03T05:04:07Z",
   "city": "Berlin",
   "country": "DE",
   "lat": 52.52,
@@ -8,6 +8,6 @@
   "feelsLike": 10.8,
   "humidity": 62,
   "windSpeed": 1.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
