@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-03T04:04:07Z",
+  "updatedAt": "2026-05-03T04:24:07Z",
   "city": "Mito",
   "country": "JP",
   "lat": 36.3418,
   "lng": 140.4468,
-  "temp": 23.3,
-  "feelsLike": 23.5,
-  "humidity": 58,
-  "windSpeed": 2.8,
+  "temp": 23.5,
+  "feelsLike": 23.3,
+  "humidity": 56,
+  "windSpeed": 2.9,
   "condition": "Mostly Clear",
   "conditionCode": 1
 }
