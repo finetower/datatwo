@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-03T00:54:07Z",
+  "updatedAt": "2026-05-03T01:04:07Z",
   "city": "Qingdao",
   "country": "CN",
   "lat": 36.0671,
   "lng": 120.3826,
-  "temp": 14.2,
-  "feelsLike": 12.0,
+  "temp": 14.4,
+  "feelsLike": 11.9,
   "humidity": 88,
-  "windSpeed": 5.7,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "windSpeed": 6.2,
+  "condition": "Rain",
+  "conditionCode": 55
 }
