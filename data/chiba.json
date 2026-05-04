@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-04T04:54:07Z",
+  "updatedAt": "2026-05-04T05:04:07Z",
   "city": "Chiba",
   "country": "JP",
   "lat": 35.6074,
   "lng": 140.1065,
-  "temp": 22.7,
-  "feelsLike": 21.4,
+  "temp": 22.6,
+  "feelsLike": 21.2,
   "humidity": 65,
-  "windSpeed": 6.3,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 6.4,
+  "condition": "Clear",
+  "conditionCode": 0
 }
