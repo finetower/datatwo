@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-04T05:04:07Z",
+  "updatedAt": "2026-05-05T00:05:11Z",
   "city": "Montreal",
   "country": "CA",
   "lat": 45.5017,
   "lng": -73.5673,
-  "temp": 5.0,
-  "feelsLike": 0.6,
-  "humidity": 60,
-  "windSpeed": 3.8,
+  "temp": 13.6,
+  "feelsLike": 12.3,
+  "humidity": 77,
+  "windSpeed": 2.4,
   "condition": "Clear",
   "conditionCode": 0
 }

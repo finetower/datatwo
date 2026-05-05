@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-04T05:04:07Z",
+  "updatedAt": "2026-05-05T00:05:11Z",
   "city": "Taipei",
   "country": "TW",
   "lat": 25.033,
   "lng": 121.5654,
-  "temp": 23.9,
-  "feelsLike": 22.4,
-  "humidity": 54,
-  "windSpeed": 5.2,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 19.5,
+  "feelsLike": 21.7,
+  "humidity": 100,
+  "windSpeed": 2.6,
+  "condition": "Rain",
+  "conditionCode": 61
 }

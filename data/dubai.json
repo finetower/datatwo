@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-04T05:04:07Z",
+  "updatedAt": "2026-05-05T00:05:11Z",
   "city": "Dubai",
   "country": "AE",
   "lat": 25.2048,
   "lng": 55.2708,
-  "temp": 32.1,
-  "feelsLike": 34.1,
-  "humidity": 45,
-  "windSpeed": 2.7,
+  "temp": 23.6,
+  "feelsLike": 25.5,
+  "humidity": 72,
+  "windSpeed": 2.3,
   "condition": "Clear",
   "conditionCode": 0
 }
