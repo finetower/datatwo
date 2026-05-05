@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-05T02:34:07Z",
+  "updatedAt": "2026-05-05T02:54:07Z",
   "city": "Beijing",
   "country": "CN",
   "lat": 39.9042,
   "lng": 116.4074,
-  "temp": 21.1,
-  "feelsLike": 22.0,
-  "humidity": 49,
-  "windSpeed": 0.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 21.8,
+  "feelsLike": 22.6,
+  "humidity": 48,
+  "windSpeed": 0.6,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
