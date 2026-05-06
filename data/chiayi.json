@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-06T00:54:07Z",
+  "updatedAt": "2026-05-06T01:04:07Z",
   "city": "Chiayi",
   "country": "TW",
   "lat": 23.48,
   "lng": 120.4491,
-  "temp": 22.9,
+  "temp": 23.0,
   "feelsLike": 27.1,
-  "humidity": 89,
-  "windSpeed": 0.2,
-  "condition": "Rain",
-  "conditionCode": 61
+  "humidity": 88,
+  "windSpeed": 0.3,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
