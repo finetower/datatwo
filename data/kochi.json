@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-05T05:04:08Z",
+  "updatedAt": "2026-05-06T00:04:22Z",
   "city": "Kochi",
   "country": "JP",
   "lat": 33.5597,
   "lng": 133.5311,
-  "temp": 20.9,
-  "feelsLike": 20.2,
-  "humidity": 33,
-  "windSpeed": 2.3,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 19.9,
+  "feelsLike": 20.3,
+  "humidity": 62,
+  "windSpeed": 0.7,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

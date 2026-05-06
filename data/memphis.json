@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-05T05:04:08Z",
+  "updatedAt": "2026-05-06T00:04:22Z",
   "city": "Memphis",
   "country": "US",
   "lat": 35.1495,
   "lng": -90.049,
-  "temp": 17.2,
-  "feelsLike": 15.3,
-  "humidity": 66,
-  "windSpeed": 4.0,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 20.4,
+  "feelsLike": 22.0,
+  "humidity": 88,
+  "windSpeed": 2.8,
+  "condition": "Rain",
+  "conditionCode": 53
 }
