@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T04:04:08Z",
+  "updatedAt": "2026-05-06T04:24:07Z",
   "city": "Denver",
   "country": "US",
   "lat": 39.7392,
@@ -8,6 +8,6 @@
   "feelsLike": -2.3,
   "humidity": 99,
   "windSpeed": 0.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Snow",
+  "conditionCode": 73
 }
