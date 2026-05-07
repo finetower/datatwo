@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-07T01:04:07Z",
+  "updatedAt": "2026-05-07T01:14:07Z",
   "city": "Gijang",
   "country": "KR",
   "lat": 35.2444,
   "lng": 129.213,
   "temp": 21.0,
   "feelsLike": 21.7,
-  "humidity": 61,
-  "windSpeed": 2.9,
-  "condition": "Clear",
-  "conditionCode": 0
+  "humidity": 60,
+  "windSpeed": 2.8,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
