@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-06T14:34:07Z",
+  "updatedAt": "2026-05-07T00:04:26Z",
   "city": "Nagano",
   "country": "JP",
   "lat": 36.6486,
   "lng": 138.1946,
-  "temp": 15.9,
-  "feelsLike": 15.0,
-  "humidity": 70,
-  "windSpeed": 2.0,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 19.1,
+  "feelsLike": 20.6,
+  "humidity": 65,
+  "windSpeed": 0.6,
+  "condition": "Clear",
+  "conditionCode": 0
 }
