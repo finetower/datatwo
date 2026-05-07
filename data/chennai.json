@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-07T03:34:07Z",
+  "updatedAt": "2026-05-07T03:54:07Z",
   "city": "Chennai",
   "country": "IN",
   "lat": 13.0827,
   "lng": 80.2707,
-  "temp": 31.3,
+  "temp": 31.5,
   "feelsLike": 35.8,
-  "humidity": 60,
-  "windSpeed": 1.6,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "humidity": 59,
+  "windSpeed": 1.9,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
