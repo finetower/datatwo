@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T00:04:26Z",
+  "updatedAt": "2026-05-07T00:34:07Z",
   "city": "Karachi",
   "country": "PK",
   "lat": 24.8607,
@@ -8,6 +8,6 @@
   "feelsLike": 31.4,
   "humidity": 95,
   "windSpeed": 3.3,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Thunderstorm",
+  "conditionCode": 95
 }
