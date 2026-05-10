@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-10T00:34:07Z",
+  "updatedAt": "2026-05-10T00:54:07Z",
   "city": "Saint Petersburg",
   "country": "RU",
   "lat": 59.9311,
   "lng": 30.3609,
-  "temp": 8.6,
-  "feelsLike": 4.0,
-  "humidity": 43,
-  "windSpeed": 3.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 8.2,
+  "feelsLike": 3.7,
+  "humidity": 44,
+  "windSpeed": 3.5,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
