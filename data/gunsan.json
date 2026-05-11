@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-11T03:24:06Z",
+  "updatedAt": "2026-05-11T03:34:07Z",
   "city": "Gunsan",
   "country": "KR",
   "lat": 35.9675,
   "lng": 126.736,
-  "temp": 23.6,
-  "feelsLike": 24.4,
+  "temp": 23.7,
+  "feelsLike": 24.5,
   "humidity": 66,
   "windSpeed": 5.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }

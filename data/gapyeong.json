@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-11T03:24:06Z",
+  "updatedAt": "2026-05-11T03:34:07Z",
   "city": "Gapyeong",
   "country": "KR",
   "lat": 37.8313,
   "lng": 127.51,
-  "temp": 18.9,
-  "feelsLike": 19.1,
+  "temp": 19.1,
+  "feelsLike": 19.4,
   "humidity": 80,
   "windSpeed": 3.0,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
