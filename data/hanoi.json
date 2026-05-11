@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-11T03:54:06Z",
+  "updatedAt": "2026-05-11T04:04:07Z",
   "city": "Hanoi",
   "country": "VN",
   "lat": 21.0285,
   "lng": 105.8542,
-  "temp": 28.9,
-  "feelsLike": 33.1,
-  "humidity": 70,
+  "temp": 29.0,
+  "feelsLike": 33.5,
+  "humidity": 69,
   "windSpeed": 2.0,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
