@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-11T03:34:07Z",
+  "updatedAt": "2026-05-11T03:54:07Z",
   "city": "Lagos",
   "country": "NG",
   "lat": 6.5244,
   "lng": 3.3792,
   "temp": 27.1,
-  "feelsLike": 32.2,
+  "feelsLike": 32.3,
   "humidity": 88,
-  "windSpeed": 3.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 3.1,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
