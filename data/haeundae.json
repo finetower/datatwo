@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-12T01:04:07Z",
+  "updatedAt": "2026-05-12T01:24:07Z",
   "city": "Haeundae",
   "country": "KR",
   "lat": 35.1631,
   "lng": 129.16,
-  "temp": 17.2,
+  "temp": 17.1,
   "feelsLike": 18.3,
-  "humidity": 90,
-  "windSpeed": 1.5,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "humidity": 91,
+  "windSpeed": 1.4,
+  "condition": "Rain",
+  "conditionCode": 61
 }

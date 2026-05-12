@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-12T01:04:07Z",
+  "updatedAt": "2026-05-12T01:24:07Z",
   "city": "Cheongju",
   "country": "KR",
   "lat": 36.6424,
   "lng": 127.489,
-  "temp": 16.7,
-  "feelsLike": 17.0,
+  "temp": 16.8,
+  "feelsLike": 17.1,
   "humidity": 92,
   "windSpeed": 2.9,
-  "condition": "Rain",
-  "conditionCode": 51
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

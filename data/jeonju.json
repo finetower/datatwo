@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-12T01:04:07Z",
+  "updatedAt": "2026-05-12T01:24:07Z",
   "city": "Jeonju",
   "country": "KR",
   "lat": 35.8242,
   "lng": 127.148,
-  "temp": 15.9,
-  "feelsLike": 15.4,
-  "humidity": 94,
+  "temp": 16.1,
+  "feelsLike": 15.6,
+  "humidity": 93,
   "windSpeed": 4.2,
   "condition": "Rain",
-  "conditionCode": 65
+  "conditionCode": 53
 }
