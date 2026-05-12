@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T04:34:29Z",
+  "updatedAt": "2026-05-12T04:44:07Z",
   "city": "Charlotte",
   "country": "US",
   "lat": 35.2271,
@@ -8,6 +8,6 @@
   "feelsLike": 10.0,
   "humidity": 86,
   "windSpeed": 2.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Clear",
+  "conditionCode": 0
 }
