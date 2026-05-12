@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-12T03:54:07Z",
+  "updatedAt": "2026-05-12T04:04:07Z",
   "city": "Nara",
   "country": "JP",
   "lat": 34.6851,
   "lng": 135.8048,
   "temp": 24.6,
-  "feelsLike": 25.7,
+  "feelsLike": 25.1,
   "humidity": 45,
-  "windSpeed": 0.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 0.6,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
