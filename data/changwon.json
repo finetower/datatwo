@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-11T05:04:07Z",
+  "updatedAt": "2026-05-12T00:04:08Z",
   "city": "Changwon",
   "country": "KR",
   "lat": 35.2284,
   "lng": 128.6811,
-  "temp": 22.1,
-  "feelsLike": 22.4,
-  "humidity": 67,
-  "windSpeed": 6.0,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 18.0,
+  "feelsLike": 19.7,
+  "humidity": 83,
+  "windSpeed": 0.2,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

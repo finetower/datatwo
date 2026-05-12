@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-11T05:04:07Z",
+  "updatedAt": "2026-05-12T00:04:08Z",
   "city": "Gochang",
   "country": "KR",
   "lat": 35.4355,
   "lng": 126.702,
-  "temp": 24.1,
-  "feelsLike": 24.7,
-  "humidity": 60,
-  "windSpeed": 4.9,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 16.0,
+  "feelsLike": 17.2,
+  "humidity": 97,
+  "windSpeed": 1.4,
+  "condition": "Rain",
+  "conditionCode": 63
 }
