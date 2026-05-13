@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-13T04:24:07Z",
+  "updatedAt": "2026-05-13T04:34:07Z",
   "city": "Sao Paulo",
   "country": "BR",
   "lat": -23.5505,
   "lng": -46.6333,
-  "temp": 11.9,
-  "feelsLike": 11.1,
-  "humidity": 88,
-  "windSpeed": 1.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 11.8,
+  "feelsLike": 11.0,
+  "humidity": 89,
+  "windSpeed": 1.4,
+  "condition": "Clear",
+  "conditionCode": 0
 }
