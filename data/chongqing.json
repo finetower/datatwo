@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-12T05:04:07Z",
+  "updatedAt": "2026-05-13T00:04:13Z",
   "city": "Chongqing",
   "country": "CN",
   "lat": 29.4316,
   "lng": 106.9123,
-  "temp": 22.2,
-  "feelsLike": 24.8,
-  "humidity": 80,
-  "windSpeed": 1.2,
-  "condition": "Rain",
-  "conditionCode": 51
+  "temp": 21.5,
+  "feelsLike": 23.4,
+  "humidity": 73,
+  "windSpeed": 0.5,
+  "condition": "Clear",
+  "conditionCode": 0
 }

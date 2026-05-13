@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-12T05:04:07Z",
+  "updatedAt": "2026-05-13T00:04:13Z",
   "city": "Goyang",
   "country": "KR",
   "lat": 37.6584,
   "lng": 126.832,
-  "temp": 19.6,
-  "feelsLike": 20.7,
-  "humidity": 83,
-  "windSpeed": 2.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 13.0,
+  "feelsLike": 13.2,
+  "humidity": 99,
+  "windSpeed": 1.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
