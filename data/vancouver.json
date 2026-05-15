@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-14T05:04:07Z",
+  "updatedAt": "2026-05-15T00:04:12Z",
   "city": "Vancouver",
   "country": "CA",
   "lat": 49.2827,
   "lng": -123.1207,
-  "temp": 13.2,
-  "feelsLike": 10.4,
-  "humidity": 67,
-  "windSpeed": 4.0,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "temp": 13.3,
+  "feelsLike": 9.3,
+  "humidity": 69,
+  "windSpeed": 6.6,
+  "condition": "Rain",
+  "conditionCode": 63
 }
