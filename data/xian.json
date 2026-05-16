@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-16T03:24:07Z",
+  "updatedAt": "2026-05-16T03:34:07Z",
   "city": "Xi'an",
   "country": "CN",
   "lat": 34.3416,
   "lng": 108.9398,
-  "temp": 20.6,
-  "feelsLike": 22.9,
-  "humidity": 87,
-  "windSpeed": 1.5,
+  "temp": 20.0,
+  "feelsLike": 22.4,
+  "humidity": 89,
+  "windSpeed": 1.4,
   "condition": "Rain",
   "conditionCode": 51
 }
