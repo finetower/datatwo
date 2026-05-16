@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T02:04:06Z",
+  "updatedAt": "2026-05-16T02:14:07Z",
   "city": "Fort Worth",
   "country": "US",
   "lat": 32.7555,
@@ -8,6 +8,6 @@
   "feelsLike": 23.9,
   "humidity": 62,
   "windSpeed": 5.3,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
