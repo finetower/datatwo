@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T03:04:07Z",
+  "updatedAt": "2026-05-16T03:14:07Z",
   "city": "Pingtung",
   "country": "TW",
   "lat": 22.6726,
@@ -8,6 +8,6 @@
   "feelsLike": 37.2,
   "humidity": 44,
   "windSpeed": 1.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
