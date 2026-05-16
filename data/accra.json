@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-16T00:34:07Z",
+  "updatedAt": "2026-05-16T00:54:07Z",
   "city": "Accra",
   "country": "GH",
   "lat": 5.6037,
   "lng": -0.187,
-  "temp": 25.1,
-  "feelsLike": 30.9,
-  "humidity": 94,
-  "windSpeed": 0.9,
+  "temp": 25.0,
+  "feelsLike": 30.5,
+  "humidity": 95,
+  "windSpeed": 1.0,
   "condition": "Rain",
   "conditionCode": 55
 }
