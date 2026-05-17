@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-17T04:34:07Z",
+  "updatedAt": "2026-05-17T04:54:07Z",
   "city": "Taean",
   "country": "KR",
   "lat": 36.7454,
   "lng": 126.298,
-  "temp": 19.9,
+  "temp": 20.1,
   "feelsLike": 22.4,
   "humidity": 73,
-  "windSpeed": 2.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 2.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
