@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-16T04:54:07Z",
+  "updatedAt": "2026-05-17T00:04:08Z",
   "city": "Hsinchu",
   "country": "TW",
   "lat": 24.8138,
   "lng": 120.9675,
-  "temp": 31.5,
-  "feelsLike": 35.8,
-  "humidity": 50,
-  "windSpeed": 3.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 25.2,
+  "feelsLike": 28.2,
+  "humidity": 72,
+  "windSpeed": 1.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
