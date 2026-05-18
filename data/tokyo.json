@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-17T05:04:07Z",
+  "updatedAt": "2026-05-18T00:04:13Z",
   "city": "Tokyo",
   "country": "JP",
   "lat": 35.6762,
   "lng": 139.6503,
-  "temp": 27.5,
-  "feelsLike": 29.3,
-  "humidity": 42,
-  "windSpeed": 1.5,
+  "temp": 20.5,
+  "feelsLike": 23.1,
+  "humidity": 72,
+  "windSpeed": 0.6,
   "condition": "Clear",
   "conditionCode": 0
 }
