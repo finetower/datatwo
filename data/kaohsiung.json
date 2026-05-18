@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T00:04:13Z",
+  "updatedAt": "2026-05-18T00:14:07Z",
   "city": "Kaohsiung",
   "country": "TW",
   "lat": 22.6273,
@@ -8,6 +8,6 @@
   "feelsLike": 31.3,
   "humidity": 72,
   "windSpeed": 2.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
