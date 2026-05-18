@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-18T01:34:07Z",
+  "updatedAt": "2026-05-18T01:54:07Z",
   "city": "Tongyeong",
   "country": "KR",
   "lat": 34.8544,
   "lng": 128.4333,
-  "temp": 17.0,
-  "feelsLike": 18.4,
-  "humidity": 94,
+  "temp": 17.7,
+  "feelsLike": 19.7,
+  "humidity": 92,
   "windSpeed": 2.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
