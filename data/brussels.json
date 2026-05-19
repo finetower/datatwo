@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T03:34:07Z",
+  "updatedAt": "2026-05-19T04:04:07Z",
   "city": "Brussels",
   "country": "BE",
   "lat": 50.8503,
@@ -8,6 +8,6 @@
   "feelsLike": 8.4,
   "humidity": 80,
   "windSpeed": 3.4,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
