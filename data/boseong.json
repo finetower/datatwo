@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-19T05:34:07Z",
+  "updatedAt": "2026-05-19T05:54:07Z",
   "city": "Boseong",
   "country": "KR",
   "lat": 34.7726,
   "lng": 127.081,
-  "temp": 22.1,
-  "feelsLike": 23.2,
-  "humidity": 82,
-  "windSpeed": 4.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 21.9,
+  "feelsLike": 23.0,
+  "humidity": 83,
+  "windSpeed": 4.1,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
