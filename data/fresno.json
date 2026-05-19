@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-19T03:04:07Z",
+  "updatedAt": "2026-05-19T03:24:07Z",
   "city": "Fresno",
   "country": "US",
   "lat": 36.7378,
   "lng": -119.7871,
-  "temp": 24.0,
-  "feelsLike": 20.4,
+  "temp": 23.3,
+  "feelsLike": 19.5,
   "humidity": 16,
-  "windSpeed": 1.9,
+  "windSpeed": 2.0,
   "condition": "Clear",
   "conditionCode": 0
 }
