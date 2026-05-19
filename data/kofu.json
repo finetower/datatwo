@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-19T02:34:07Z",
+  "updatedAt": "2026-05-19T02:54:06Z",
   "city": "Kofu",
   "country": "JP",
   "lat": 35.6635,
   "lng": 138.5685,
-  "temp": 28.2,
-  "feelsLike": 32.2,
-  "humidity": 44,
-  "windSpeed": 0.7,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 28.7,
+  "feelsLike": 32.5,
+  "humidity": 42,
+  "windSpeed": 0.9,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
