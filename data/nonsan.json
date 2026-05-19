@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-18T05:04:07Z",
+  "updatedAt": "2026-05-19T00:04:29Z",
   "city": "Nonsan",
   "country": "KR",
   "lat": 36.187,
   "lng": 127.099,
-  "temp": 29.3,
-  "feelsLike": 31.6,
-  "humidity": 47,
-  "windSpeed": 3.7,
-  "condition": "Clear",
-  "conditionCode": 0
+  "temp": 20.1,
+  "feelsLike": 21.2,
+  "humidity": 67,
+  "windSpeed": 0.3,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
