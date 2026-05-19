@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-19T00:34:07Z",
+  "updatedAt": "2026-05-19T00:44:07Z",
   "city": "Sokcho",
   "country": "KR",
   "lat": 38.207,
   "lng": 128.5912,
-  "temp": 20.7,
-  "feelsLike": 21.0,
+  "temp": 21.3,
+  "feelsLike": 21.8,
   "humidity": 60,
-  "windSpeed": 1.0,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "windSpeed": 1.5,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
