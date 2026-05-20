@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T22:44:07Z",
+  "updatedAt": "2026-05-20T22:54:07Z",
   "city": "Austin",
   "country": "US",
   "lat": 30.2672,
@@ -7,7 +7,7 @@
   "temp": 28.7,
   "feelsLike": 31.2,
   "humidity": 64,
-  "windSpeed": 3.9,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "windSpeed": 3.7,
+  "condition": "Clear",
+  "conditionCode": 0
 }

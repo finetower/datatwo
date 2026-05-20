@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T22:34:07Z",
+  "updatedAt": "2026-05-20T22:54:07Z",
   "city": "Honolulu",
   "country": "US",
   "lat": 21.3069,
   "lng": -157.8583,
   "temp": 26.5,
-  "feelsLike": 28.1,
-  "humidity": 64,
-  "windSpeed": 7.2,
+  "feelsLike": 28.0,
+  "humidity": 65,
+  "windSpeed": 7.3,
   "condition": "Rain",
   "conditionCode": 51
 }
