@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-19T06:24:07Z",
+  "updatedAt": "2026-05-20T00:04:09Z",
   "city": "Hwacheon",
   "country": "KR",
   "lat": 38.1064,
   "lng": 127.708,
-  "temp": 22.9,
-  "feelsLike": 24.2,
-  "humidity": 59,
-  "windSpeed": 0.4,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 15.2,
+  "feelsLike": 15.7,
+  "humidity": 87,
+  "windSpeed": 0.9,
+  "condition": "Rain",
+  "conditionCode": 55
 }
