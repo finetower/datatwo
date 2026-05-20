@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T03:54:07Z",
+  "updatedAt": "2026-05-20T04:04:07Z",
   "city": "Perth",
   "country": "AU",
   "lat": -31.9505,
   "lng": 115.8605,
-  "temp": 20.6,
-  "feelsLike": 20.7,
+  "temp": 21.0,
+  "feelsLike": 21.0,
   "humidity": 51,
-  "windSpeed": 0.1,
+  "windSpeed": 0.2,
   "condition": "Cloudy",
   "conditionCode": 3
 }
