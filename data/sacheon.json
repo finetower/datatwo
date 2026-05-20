@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T22:54:07Z",
+  "updatedAt": "2026-05-20T23:04:07Z",
   "city": "Sacheon",
   "country": "KR",
   "lat": 35.0731,
   "lng": 128.0642,
-  "temp": 17.5,
-  "feelsLike": 19.6,
-  "humidity": 97,
-  "windSpeed": 0.7,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "temp": 17.8,
+  "feelsLike": 19.8,
+  "humidity": 96,
+  "windSpeed": 1.1,
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
