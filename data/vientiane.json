@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T23:04:07Z",
+  "updatedAt": "2026-05-20T23:24:07Z",
   "city": "Vientiane",
   "country": "LA",
   "lat": 17.9757,
   "lng": 102.6331,
-  "temp": 24.7,
+  "temp": 24.9,
   "feelsLike": 29.7,
-  "humidity": 96,
-  "windSpeed": 2.2,
-  "condition": "Rain",
-  "conditionCode": 61
+  "humidity": 95,
+  "windSpeed": 2.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
