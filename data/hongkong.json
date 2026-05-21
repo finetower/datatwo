@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-21T01:24:07Z",
+  "updatedAt": "2026-05-21T01:34:07Z",
   "city": "Hong Kong",
   "country": "HK",
   "lat": 22.3193,
   "lng": 114.1694,
-  "temp": 25.2,
-  "feelsLike": 31.3,
+  "temp": 25.3,
+  "feelsLike": 31.7,
   "humidity": 99,
-  "windSpeed": 1.2,
+  "windSpeed": 0.8,
   "condition": "Shower",
   "conditionCode": 80
 }
