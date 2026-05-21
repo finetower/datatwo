@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T01:04:07Z",
+  "updatedAt": "2026-05-21T01:24:07Z",
   "city": "Jeongseon",
   "country": "KR",
   "lat": 37.3804,
@@ -8,6 +8,6 @@
   "feelsLike": 15.6,
   "humidity": 98,
   "windSpeed": 3.1,
-  "condition": "Cloudy",
-  "conditionCode": 3
+  "condition": "Rain",
+  "conditionCode": 51
 }
