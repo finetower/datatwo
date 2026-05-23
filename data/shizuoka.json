@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T04:34:07Z",
+  "updatedAt": "2026-05-23T04:54:07Z",
   "city": "Shizuoka",
   "country": "JP",
   "lat": 34.9769,
   "lng": 138.3831,
-  "temp": 18.0,
+  "temp": 17.9,
   "feelsLike": 17.2,
-  "humidity": 69,
-  "windSpeed": 2.8,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "humidity": 70,
+  "windSpeed": 2.7,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
