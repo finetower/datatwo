@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T02:34:07Z",
+  "updatedAt": "2026-05-23T02:54:07Z",
   "city": "Calgary",
   "country": "CA",
   "lat": 51.0447,
   "lng": -114.0719,
-  "temp": 15.4,
-  "feelsLike": 13.7,
-  "humidity": 46,
-  "windSpeed": 0.5,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 15.0,
+  "feelsLike": 12.9,
+  "humidity": 48,
+  "windSpeed": 1.4,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

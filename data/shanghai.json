@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T02:34:07Z",
+  "updatedAt": "2026-05-23T02:54:07Z",
   "city": "Shanghai",
   "country": "CN",
   "lat": 31.2304,
   "lng": 121.4737,
-  "temp": 29.4,
-  "feelsLike": 34.2,
-  "humidity": 67,
-  "windSpeed": 1.1,
+  "temp": 29.5,
+  "feelsLike": 34.3,
+  "humidity": 66,
+  "windSpeed": 0.9,
   "condition": "Cloudy",
   "conditionCode": 3
 }
