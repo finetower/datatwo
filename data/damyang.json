@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T03:24:07Z",
+  "updatedAt": "2026-05-24T03:34:06Z",
   "city": "Damyang",
   "country": "KR",
   "lat": 35.3213,
   "lng": 126.988,
-  "temp": 24.3,
-  "feelsLike": 27.1,
-  "humidity": 65,
-  "windSpeed": 1.7,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "temp": 24.5,
+  "feelsLike": 27.3,
+  "humidity": 64,
+  "windSpeed": 1.5,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
