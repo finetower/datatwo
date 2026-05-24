@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T01:04:08Z",
+  "updatedAt": "2026-05-24T01:24:09Z",
   "city": "Guangzhou",
   "country": "CN",
   "lat": 23.1291,
   "lng": 113.2644,
-  "temp": 29.2,
-  "feelsLike": 34.2,
-  "humidity": 80,
-  "windSpeed": 3.9,
-  "condition": "Rain",
-  "conditionCode": 51
+  "temp": 29.6,
+  "feelsLike": 34.4,
+  "humidity": 78,
+  "windSpeed": 4.2,
+  "condition": "Cloudy",
+  "conditionCode": 3
 }

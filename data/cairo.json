@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T01:04:08Z",
+  "updatedAt": "2026-05-24T01:24:09Z",
   "city": "Cairo",
   "country": "EG",
   "lat": 30.0444,
   "lng": 31.2357,
-  "temp": 20.0,
-  "feelsLike": 20.4,
-  "humidity": 68,
+  "temp": 19.8,
+  "feelsLike": 20.2,
+  "humidity": 69,
   "windSpeed": 1.5,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }
