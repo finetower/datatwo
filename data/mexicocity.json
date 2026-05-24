@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T00:04:34Z",
+  "updatedAt": "2026-05-24T00:14:15Z",
   "city": "Mexico City",
   "country": "MX",
   "lat": 19.4326,
@@ -8,6 +8,6 @@
   "feelsLike": 18.5,
   "humidity": 79,
   "windSpeed": 1.1,
-  "condition": "Shower",
-  "conditionCode": 80
+  "condition": "Rain",
+  "conditionCode": 61
 }

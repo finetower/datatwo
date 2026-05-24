@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T00:04:34Z",
+  "updatedAt": "2026-05-24T00:14:15Z",
   "city": "Shenyang",
   "country": "CN",
   "lat": 41.8057,
@@ -8,6 +8,6 @@
   "feelsLike": 19.3,
   "humidity": 74,
   "windSpeed": 3.9,
-  "condition": "Clear",
-  "conditionCode": 0
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
