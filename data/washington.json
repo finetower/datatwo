@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T04:44:07Z",
+  "updatedAt": "2026-05-24T04:54:07Z",
   "city": "Washington DC",
   "country": "US",
   "lat": 38.9072,
   "lng": -77.0369,
   "temp": 12.1,
   "feelsLike": 11.1,
-  "humidity": 96,
-  "windSpeed": 2.9,
+  "humidity": 97,
+  "windSpeed": 3.1,
   "condition": "Rain",
-  "conditionCode": 63
+  "conditionCode": 61
 }
