@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T03:34:07Z",
+  "updatedAt": "2026-05-24T03:44:07Z",
   "city": "Helsinki",
   "country": "FI",
   "lat": 60.1699,
@@ -8,6 +8,6 @@
   "feelsLike": 9.3,
   "humidity": 94,
   "windSpeed": 4.2,
-  "condition": "Mostly Clear",
-  "conditionCode": 1
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
