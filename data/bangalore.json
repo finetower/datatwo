@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T05:04:08Z",
+  "updatedAt": "2026-05-24T00:04:34Z",
   "city": "Bangalore",
   "country": "IN",
   "lat": 12.9716,
   "lng": 77.5946,
-  "temp": 28.5,
-  "feelsLike": 31.4,
-  "humidity": 55,
+  "temp": 20.9,
+  "feelsLike": 23.2,
+  "humidity": 96,
   "windSpeed": 3.2,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Cloudy",
+  "conditionCode": 3
 }
