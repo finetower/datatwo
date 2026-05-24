@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T00:24:15Z",
+  "updatedAt": "2026-05-24T00:35:44Z",
   "city": "Gongju",
   "country": "KR",
   "lat": 36.4465,
   "lng": 127.119,
-  "temp": 19.8,
-  "feelsLike": 21.7,
+  "temp": 20.3,
+  "feelsLike": 22.4,
   "humidity": 82,
   "windSpeed": 0.7,
-  "condition": "Partly Cloudy",
-  "conditionCode": 2
+  "condition": "Mostly Clear",
+  "conditionCode": 1
 }

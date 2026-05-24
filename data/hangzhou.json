@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T00:24:15Z",
+  "updatedAt": "2026-05-24T00:35:50Z",
   "city": "Hangzhou",
   "country": "CN",
   "lat": 30.2741,
   "lng": 120.1551,
   "temp": 25.0,
-  "feelsLike": 30.1,
-  "humidity": 94,
-  "windSpeed": 1.9,
-  "condition": "Rain",
-  "conditionCode": 55
+  "feelsLike": 30.0,
+  "humidity": 93,
+  "windSpeed": 2.1,
+  "condition": "Partly Cloudy",
+  "conditionCode": 2
 }
